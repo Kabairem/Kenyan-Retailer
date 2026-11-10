@@ -1,0 +1,201 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+	"# Exploratory Data Analysis (EDA) - Kenyan Retailer Capstone\n",
+	"This notebook performs exploratory data analysis on cleaned transactional datasets, covering category revenue, monthly trends, calendar-day patterns, outlet performance, and customer loyalty tiers."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"import pandas as pd\n",
+	"import numpy as np\n",
+	"import matplotlib.pyplot as plt\n",
+	"import seaborn as sns\n",
+	"\n",
+	"plt.style.use('seaborn-v0_8-whitegrid')\n",
+	"print('Environment configured successfully.')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["## 1. Load Cleaned Datasets"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"orders = pd.read_csv('../data/processed/cleaned_orders.csv')\n",
+	"order_items = pd.read_csv('../data/processed/cleaned_order_items.csv')\n",
+	"customers = pd.read_csv('../data/processed/cleaned_customers.csv')\n",
+	"outlets = pd.read_csv('../data/processed/cleaned_outlets.csv')\n",
+	"products = pd.read_csv('../data/processed/cleaned_products.csv')\n",
+	"\n",
+	"df = order_items.merge(orders, on='order_id', how='inner')\n",
+	"df = df.merge(products, on='product_id', how='inner')\n",
+	"df = df.merge(outlets, on='outlet_id', how='inner')\n",
+	"df['order_date'] = pd.to_datetime(df['order_date'])\n",
+	"print(f'Merged dataset shape: {df.shape}')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["## 2. Sales Breakdown by Product Category"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"cat_sales = df.groupby('category', as_index=False)['net_revenue'].sum().sort_values('net_revenue', ascending=False)\n",
+	"print(cat_sales)\n",
+	"plt.figure(figsize=(10, 5))\n",
+	"sns.barplot(data=cat_sales, x='net_revenue', y='category', palette='viridis')\n",
+	"plt.title('Total Net Revenue by Product Category')\n",
+	"plt.tight_layout()\n",
+	"plt.savefig('../reports/figures/category_revenue.png', dpi=300)\n",
+	"plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["**Observation:** Compare the category totals above to identify the leading product categories; avoid assuming a ranking until the cleaned data is analyzed."]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["## 3. Monthly Trends, Seasonality & End-of-Month Surges"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"df['year_month'] = df['order_date'].dt.to_period('M')\n",
+	"monthly_rev = df.groupby('year_month', as_index=False)['net_revenue'].sum()\n",
+	"monthly_rev['year_month_str'] = monthly_rev['year_month'].astype(str)\n",
+	"print(monthly_rev)\n",
+	"plt.figure(figsize=(12, 6))\n",
+	"sns.lineplot(data=monthly_rev, x='year_month_str', y='net_revenue', marker='o', linewidth=2.5)\n",
+	"plt.title('Monthly Net Revenue Trend & Seasonality')\n",
+	"plt.xticks(rotation=45)\n",
+	"plt.tight_layout()\n",
+	"plt.savefig('../reports/figures/monthly_seasonality.png', dpi=300)\n",
+	"plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["**Observation:** Review the monthly totals and chart to identify seasonal peaks and growth patterns in the observed period."]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["### Calendar-Day Revenue Pattern"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"df['day_of_month'] = df['order_date'].dt.day\n",
+	"daily_sales = df.groupby('day_of_month', as_index=False)['net_revenue'].sum()\n",
+	"print(daily_sales)\n",
+	"plt.figure(figsize=(12, 5))\n",
+	"sns.barplot(data=daily_sales, x='day_of_month', y='net_revenue', color='steelblue')\n",
+	"plt.title('Total Net Revenue by Calendar Day')\n",
+	"plt.tight_layout()\n",
+	"plt.savefig('../reports/figures/daily_salary_cycle.png', dpi=300)\n",
+	"plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["**Observation:** These totals pool dates across months of different lengths and sizes. Compare daily averages or normalize by the number of observed occurrences before attributing patterns to salary cycles."]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["## 4. Regional & County Store Performance Comparisons"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"outlet_sales = df.groupby(['outlet_name', 'county'], as_index=False)['net_revenue'].sum().sort_values('net_revenue', ascending=False)\n",
+	"print(outlet_sales)\n",
+	"plt.figure(figsize=(12, 6))\n",
+	"sns.barplot(data=outlet_sales, x='net_revenue', y='outlet_name', hue='county', dodge=False, palette='muted')\n",
+	"plt.title('Net Revenue Performance by Outlet and County')\n",
+	"plt.tight_layout()\n",
+	"plt.savefig('../reports/figures/outlet_county_performance.png', dpi=300)\n",
+	"plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["**Observation:** Aggregate revenue and average order value are different measures; use order-level aggregation to compare average order values across counties."]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["## 5. Customer Segmentation (Loyalty Tiers)"]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+	"cust_orders = df.merge(customers[['customer_id', 'loyalty_tier']], on='customer_id', how='inner')\n",
+	"tier_sales = cust_orders.groupby('loyalty_tier', as_index=False)['net_revenue'].sum()\n",
+	"print(tier_sales)\n",
+	"plt.figure(figsize=(8, 5))\n",
+	"sns.barplot(data=tier_sales, x='loyalty_tier', y='net_revenue', palette='pastel')\n",
+	"plt.title('Total Net Revenue by Customer Loyalty Tier')\n",
+	"plt.tight_layout()\n",
+	"plt.savefig('../reports/figures/loyalty_tier_revenue.png', dpi=300)\n",
+	"plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": ["**Observation:** Use the resulting tier totals to assess revenue distribution and potential retention opportunities."]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+	"## 6. Summary of Key Findings\n",
+	"1. Category revenue distribution is visualized in `reports/figures/category_revenue.png`.\n",
+	"2. Monthly and calendar-day revenue patterns are shown in `reports/figures/monthly_seasonality.png` and `reports/figures/daily_salary_cycle.png`.\n",
+	"3. Payment-channel shares require a payment-channel analysis before quantifying M-Pesa usage.\n",
+	"4. Outlet revenue comparisons are shown in `reports/figures/outlet_county_performance.png`.\n",
+	"5. Loyalty-tier revenue is visualized in `reports/figures/loyalty_tier_revenue.png`."
+   ]
+  }
+ ],
+ "metadata": {"language_info": {"name": "python"}},
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
