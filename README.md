@@ -623,5 +623,5 @@ M-Pesa Revenue Share = DIVIDE(
     [Total Revenue],
     0
 )
-
+ 
     
