@@ -1,0 +1,521 @@
+outlet_id,outlet_name,outlet_type,county,region,town,opened_on
+1,Soko Fresh Karatina Kiosk 1,Kiosk,Nyeri,Mt Kenya,Karatina,2020-01-28
+2,Soko Fresh Kileleshwa Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2018-04-21
+3,Soko Fresh Ruaka Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Ruaka,2025-09-21
+4,Soko Fresh Meru Town Supermarket 1,Supermarket,Meru,Mt Kenya,Meru Town,2021-07-30
+5,Soko Fresh Litein Kiosk 1,Kiosk,Kericho,Rift Valley,Litein,2024-04-11
+6,Soko Fresh Likoni Kiosk 1,Kiosk,Mombasa,Coast,Likoni,2019-11-12
+7,Soko Fresh Meru Town Mini-mart 2,Mini-mart,Meru,Mt Kenya,Meru Town,2025-06-20
+8,Soko Fresh Nyali Mini-mart 1,Mini-mart,Mombasa,Coast,Nyali,2020-10-13
+9,Soko Fresh Donholm Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Donholm,2019-02-19
+10,Soko Fresh Kondele Kiosk 1,Kiosk,Kisumu,Nyanza,Kondele,2020-10-31
+11,Soko Fresh Bamburi Supermarket 1,Supermarket,Mombasa,Coast,Bamburi,2019-10-28
+12,Soko Fresh Kisii Town Kiosk 1,Kiosk,Kisii,Nyanza,Kisii Town,2019-04-02
+13,Soko Fresh Molo Kiosk 1,Kiosk,Nakuru,Rift Valley,Molo,2019-09-14
+14,Soko Fresh Kasarani Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Kasarani,2022-02-23
+15,Soko Fresh Kikuyu Kiosk 1,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2021-03-21
+16,Soko Fresh Ruiru Kiosk 1,Kiosk,Kiambu,Nairobi Metro,Ruiru,2025-07-23
+17,Soko Fresh Nanyuki Kiosk 1,Kiosk,Laikipia,Rift Valley,Nanyuki,2022-11-30
+18,Soko Fresh Kikuyu Mini-mart 2,Mini-mart,Kiambu,Nairobi Metro,Kikuyu,2020-02-23
+19,Soko Fresh Kutus Kiosk 1,Kiosk,Kirinyaga,Mt Kenya,Kutus,2019-04-01
+20,Soko Fresh Kiambu Town Mini-mart 1,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2021-06-11
+21,Soko Fresh Nyeri Town Mini-mart 1,Mini-mart,Nyeri,Mt Kenya,,2020-10-31
+22,Soko Fresh Nkubu Kiosk 1,Kiosk,Meru,Mt Kenya,Nkubu,2019-06-24
+23,Soko Fresh Kiambu Town Supermarket 2,Supermarket,Kiambu,Nairobi Metro,Kiambu Town,2019-03-03
+24,Soko Fresh Sagana Supermarket 1,Supermarket,Kirinyaga,Mt Kenya,Sagana,2020-06-09
+25,Soko Fresh Kasarani Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Kasarani,2022-10-18
+26,Soko Fresh Kilimani Supermarket 1,Supermarket,Nairobi,Nairobi Metro,Kilimani,2018-01-23
+27,Soko Fresh Molo Kiosk 2,Kiosk,Nakuru,Rift Valley,Molo,2025-06-29
+28,Soko Fresh Karatina Kiosk 2,Kiosk,Nyeri,Mt Kenya,Karatina,2018-12-27
+29,Soko Fresh Embakasi Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Embakasi,2020-04-16
+30,Soko Fresh Bamburi Kiosk 2,Kiosk,Mombasa,Coast,,2023-01-04
+31,Soko Fresh Langata Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Langata,2023-06-12
+32,Soko Fresh Kitengela Kiosk 1,Kiosk,Kajiado,Nairobi Metro,Kitengela,2025-02-06
+33,Soko Fresh Thika Mini-mart 1 ,Mini-mart,Kiambu,Nairobi Metro,Thika,2022-03-27
+34,Soko Fresh Juja Kiosk 1,Kiosk,Kiambu,Nairobi Metro,Juja,2019-01-08
+35,Soko Fresh Watamu Kiosk 1,Kiosk,Kilifi,Coast,Watamu,2023-11-28
+36,Soko Fresh Westlands Kiosk 1,Kiosk,Nairobi,Nairobi Metro,Westlands,2021-02-24
+37,Soko Fresh Eldoret Kiosk 1,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2020-02-24
+38,Soko Fresh Ongata Rongai Kiosk 1 ,Kiosk,Kajiado,Nairobi Metro,Ongata Rongai,2022-12-16
+39,Soko Fresh Ruaka Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Ruaka,2023-01-21
+40,Soko Fresh Maua Kiosk 1,Kiosk,Meru,Mt Kenya,Maua,2021-11-08
+41,Soko Fresh Mumias Supermarket 1,Supermarket,Kakamega,Western,Mumias,2019-04-05
+42,Soko Fresh Meru Town Kiosk 3,Kiosk,Meru,Mt Kenya,Meru Town,2021-07-10
+43,Soko Fresh Nyali Mini-mart 2,Mini-mart,Mombasa,Coast,Nyali,2018-12-05
+44,Soko Fresh Maua Supermarket 2,Supermarket,Meru,Mt Kenya,Maua,2025-05-11
+45,Soko Fresh Embu Town Kiosk 1,Kiosk,Embu,Mt Kenya,Embu Town,2023-08-08
+46,Soko Fresh Milimani Kiosk 1,Kiosk,Kisumu,Nyanza,Milimani,2019-04-27
+47,Soko Fresh Nanyuki Kiosk 2,Kiosk,Laikipia,Rift Valley,Nanyuki,2022-09-19
+48,Soko Fresh Burnt Forest Supermarket 1,Supermarket,Uasin Gishu,Rift Valley,Burnt Forest,2020-04-06
+49,Soko Fresh Nanyuki Mini-mart 3,Mini-mart,Laikipia,Rift Valley,Nanyuki,2025-06-27
+50,Soko Fresh Molo Mini-mart 3,Mini-mart,Nakuru,Rift Valley,Molo,2022-09-30
+51,Soko Fresh Westlands Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Westlands,2023-08-23
+52,Soko Fresh Mombasa CBD Kiosk 1,Kiosk,Mombasa,Coast,Mombasa CBD,2021-11-10
+53,Soko Fresh Thika Kiosk 2,Kiosk,Kiambu,Nairobi Metro,Thika,2021-12-21
+54,Soko Fresh Kisumu CBD Supermarket 1,Supermarket,Kisumu,Nyanza,Kisumu CBD,2020-09-03
+55,Soko Fresh Nkubu Kiosk 2,Kiosk,Meru,Mt Kenya,Nkubu,2018-08-31
+56,Soko Fresh Kangema Kiosk 1,Kiosk,Murang'a,Mt Kenya,Kangema,2018-06-24
+57,Soko Fresh Molo Supermarket 4,Supermarket,Nakuru,Rift Valley,Molo,2018-03-11
+58,Soko Fresh Engineer Kiosk 1,Kiosk,Nyandarua,Rift Valley,Engineer,2023-07-09
+59,Soko Fresh Kondele Kiosk 2,Kiosk,Kisumu,Nyanza,Kondele,2019-02-05
+60,Soko Fresh Langata Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Langata,2023-02-25
+61,Soko Fresh Kangema Kiosk 2,Kiosk,Murang'a,Mt Kenya,Kangema,2025-09-24
+62,Soko Fresh Mombasa CBD Mini-mart 2,Mini-mart,Mombasa,Coast,Mombasa CBD,2024-02-22
+63,Soko Fresh Litein Kiosk 2,Kiosk,Kericho,Rift Valley,Litein,2021-04-24
+64,Soko Fresh Kasarani Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Kasarani,2022-12-25
+65,Soko Fresh Kileleshwa Supermarket 2,Supermarket,Nairobi,Nairobi Metro,Kileleshwa,2023-04-13
+66,Soko Fresh Kasarani Kiosk 4,Kiosk,Nairobi,Nairobi Metro,Kasarani,2023-03-13
+67,Soko Fresh Mtwapa Mini-mart 1,Mini-mart,Mombasa,Coast,Mtwapa,2023-04-10
+68,Soko Fresh Westlands Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Westlands,2024-05-24
+69,Soko Fresh Kasarani Kiosk 5,Kiosk,Nairobi,Nairobi Metro,Kasarani,2020-04-28
+70,Soko Fresh Athi River Mini-mart 1,Mini-mart,Machakos,Nairobi Metro,Athi River,2021-03-29
+71,Soko Fresh Kenol Mini-mart 1,Mini-mart,Murang'a,Mt Kenya,Kenol,2026-02-15
+72,Soko Fresh Thika Kiosk 3,Kiosk,Kiambu,Nairobi Metro,Thika,2021-07-22
+73,Soko Fresh Milimani Mini-mart 2,Mini-mart,Kisumu,Nyanza,Milimani,2018-10-06
+74,Soko Fresh Ongata Rongai Mini-mart 2,Mini-mart,Kajiado,Nairobi Metro,Ongata Rongai,2022-05-20
+75,Soko Fresh Nyahururu Mini-mart 1,Mini-mart,Laikipia,Rift Valley,Nyahururu,2018-04-01
+76,Soko Fresh Kilimani Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Kilimani,2023-09-30
+77,Soko Fresh Ol Kalou Kiosk 1,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2019-08-31
+78,Soko Fresh Langata Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Langata,2021-06-11
+79,Soko Fresh Litein Mini-mart 3,Mini-mart,Kericho,Rift Valley,Litein,2024-02-05
+80,Soko Fresh Ruiru Kiosk 2,Kiosk,Kiambu,Nairobi Metro,Ruiru,2018-06-09
+81,Soko Fresh Embu Town Kiosk 2,Kiosk,Embu,Mt Kenya,Embu Town,2018-11-01
+82,Soko Fresh Kisumu CBD Mini-mart 2,Mini-mart,Kisumu,Nyanza,Kisumu CBD,2020-09-25
+83,Soko Fresh Kasarani Kiosk 6,Kiosk,Nairobi,Nairobi Metro,Kasarani,2018-11-11
+84,Soko Fresh Meru Town Mini-mart 4 ,Mini-mart,Meru,Mt Kenya,Meru Town,2022-07-28
+85,Soko Fresh Westlands Mini-mart 4,Mini-mart,Nairobi,Nairobi Metro,Westlands,2020-07-13
+86,Soko Fresh Westlands Kiosk 5,Kiosk,Nairobi,Nairobi Metro,Westlands,2021-05-24
+87,Soko Fresh Naivasha Kiosk 1,Kiosk,Nakuru,Rift Valley,Naivasha,2021-09-20
+88,Soko Fresh Kiambu Town Kiosk 3,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2022-12-12
+89,Soko Fresh Litein Mini-mart 4,Mini-mart,Kericho,Rift Valley,Litein,2023-03-01
+90,Soko Fresh Mombasa CBD Mini-mart 3,Mini-mart,Mombasa,Coast,Mombasa CBD,2025-01-05
+91,Soko Fresh Kondele Kiosk 3,Kiosk,Kisumu,Nyanza,Kondele,2019-07-04
+92,Soko Fresh Kisii Town Mini-mart 2,Mini-mart,Kisii,Nyanza,Kisii Town,2020-11-03
+93,Soko Fresh Eldoret Kiosk 2,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2021-08-20
+94,Soko Fresh Malindi Kiosk 1,Kiosk,Kilifi,Coast,Malindi,2021-09-20
+95,Soko Fresh Kikuyu Kiosk 3,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2020-10-15
+96,Soko Fresh Ngong Kiosk 1,Kiosk,Kajiado,Nairobi Metro,Ngong,2021-01-17
+97,Soko Fresh Ruiru Kiosk 3,Kiosk,Kiambu,Nairobi Metro,Ruiru,2020-10-08
+98,Soko Fresh Kondele Kiosk 4,Kiosk,Kisumu,Nyanza,Kondele,2021-12-11
+99,Soko Fresh Likoni Mini-mart 2,Mini-mart,Mombasa,Coast,Likoni,2023-11-22
+100,Soko Fresh Othaya Kiosk 1,Kiosk,Nyeri,Mt Kenya,Othaya,2025-09-22
+101,Soko Fresh Mtwapa Mini-mart 2,Mini-mart,Mombasa,Coast,Mtwapa,2019-07-06
+102,Soko Fresh Westlands Mini-mart 6,Mini-mart,Nairobi,Nairobi Metro,Westlands,2025-12-17
+103,Soko Fresh Langata Mini-mart 4,Mini-mart,Nairobi,Nairobi Metro,Langata,2022-12-23
+104,Soko Fresh Nakuru Town Mini-mart 1,Mini-mart,Nakuru,Rift Valley,Nakuru Town,2021-10-07
+105,Soko Fresh Mumias Kiosk 2,Kiosk,Kakamega,Western,Mumias,2022-11-02
+106,Soko Fresh Nyali Supermarket 3,Supermarket,Mombasa,Coast,Nyali,2020-02-17
+107,Soko Fresh Webuye Kiosk 1,Kiosk,Bungoma,Western,Webuye,2020-10-22
+108,Soko Fresh Syokimau Kiosk 1,Kiosk,Machakos,Nairobi Metro,Syokimau,2022-10-29
+109,Soko Fresh Donholm Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Donholm,2022-11-04
+110,Soko Fresh Sagana Kiosk 2,Kiosk,Kirinyaga,Mt Kenya,Sagana,2018-11-05
+111,Soko Fresh Westlands Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Westlands,2023-04-30
+112,Soko Fresh Kikuyu Mini-mart 4,Mini-mart,Kiambu,Nairobi Metro,Kikuyu,2022-05-20
+113,Soko Fresh Kitengela Kiosk 2,Kiosk,Kajiado,Nairobi Metro,Kitengela,2025-09-29
+114,Soko Fresh Kilifi Town Mini-mart 1,Mini-mart,Kilifi,Coast,Kilifi Town,2024-01-30
+115,Soko Fresh Westlands Mini-mart 8,Mini-mart,Nairobi,Nairobi Metro,Westlands,2018-12-20
+116,Soko Fresh Kondele Kiosk 5 ,Kiosk,Kisumu,Nyanza,Kondele,2021-06-01
+117,Soko Fresh Kilimani Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Kilimani,2021-07-02
+118,Soko Fresh Westlands Kiosk 9,Kiosk,Nairobi,Nairobi Metro,Westlands,2022-05-22
+119,Soko Fresh Ogembo Kiosk 1,Kiosk,Kisii,Nyanza,Ogembo,2021-07-03
+120,Soko Fresh Syokimau Kiosk 2,Kiosk,Machakos,Nairobi Metro,Syokimau,2021-01-20
+121,Soko Fresh Ruiru Kiosk 4,Kiosk,Kiambu,Nairobi Metro,Ruiru,2024-05-20
+122,Soko Fresh Bungoma Town Kiosk 1 ,Kiosk,Bungoma,Western,Bungoma Town,2019-03-05
+123,Soko Fresh Gilgil Kiosk 1,Kiosk,Nakuru,Rift Valley,Gilgil,2019-03-04
+124,Soko Fresh Milimani Kiosk 3,Kiosk,Kisumu,Nyanza,Milimani,2020-01-01
+125,Soko Fresh Mtwapa Kiosk 3,Kiosk,Mombasa,Coast,Mtwapa,2024-06-24
+126,Soko Fresh Machakos Town Mini-mart 1,Mini-mart,Machakos,Nairobi Metro,Machakos Town,2023-03-14
+127,Soko Fresh Kasarani Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Kasarani,2024-05-20
+128,Soko Fresh Westlands Kiosk 10,Kiosk,Nairobi,Nairobi Metro,Westlands,2019-01-28
+129,Soko Fresh Ogembo Kiosk 2,Kiosk,Kisii,Nyanza,,2022-03-23
+130,Soko Fresh Murang'a Town Kiosk 1,Kiosk,Murang'a,Mt Kenya,Murang'a Town,2025-10-01
+131,Soko Fresh Mtwapa Supermarket 4,Supermarket,Mombasa,Coast,Mtwapa,2023-07-25
+132,Soko Fresh Kakamega Town Mini-mart 1,Mini-mart,Kakamega,Western,Kakamega Town,2025-05-17
+133,Soko Fresh Kilifi Town Kiosk 2,Kiosk,Kilifi,Coast,Kilifi Town,2019-12-27
+134,Soko Fresh Donholm Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Donholm,2019-09-28
+135,Soko Fresh Kitengela Kiosk 3,Kiosk,Kajiado,Nairobi Metro,Kitengela,2020-06-02
+136,Soko Fresh Bamburi Kiosk 3,Kiosk,Mombasa,Coast,Bamburi,2019-07-16
+137,Soko Fresh Burnt Forest Kiosk 2,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2025-05-28
+138,Soko Fresh Karatina Mini-mart 3,Mini-mart,Nyeri,Mt Kenya,Karatina,2021-10-31
+139,Soko Fresh Kiambu Town Supermarket 4,Supermarket,Kiambu,Nairobi Metro,Kiambu Town,2019-10-27
+140,Soko Fresh Mumias Kiosk 3,Kiosk,Kakamega,Western,Mumias,2022-05-07
+141,Soko Fresh Nyali Kiosk 4,Kiosk,Mombasa,Coast,Nyali,2022-10-20
+142,Soko Fresh Langata Supermarket 5,Supermarket,Nairobi,Nairobi Metro,Langata,2021-05-28
+143,Soko Fresh Molo Kiosk 5,Kiosk,Nakuru,Rift Valley,Molo,2018-01-22
+144,Soko Fresh Litein Mini-mart 5,Mini-mart,Kericho,Rift Valley,Litein,2018-10-08
+145,Soko Fresh Ogembo Kiosk 3,Kiosk,Kisii,Nyanza,Ogembo,2019-01-06
+146,Soko Fresh Kileleshwa Mini-mart 3,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2020-02-24
+147,Soko Fresh Karatina Kiosk 4,Kiosk,Nyeri,Mt Kenya,Karatina,2020-03-14
+148,Soko Fresh Ongata Rongai Kiosk 3,Kiosk,Kajiado,Nairobi Metro,Ongata Rongai,2020-09-12
+149,Soko Fresh Kitengela Kiosk 4,Kiosk,Kajiado,Nairobi Metro,Kitengela,2018-03-29
+150,Soko Fresh Othaya Supermarket 2,Supermarket,Nyeri,Mt Kenya,Othaya,2021-06-15
+151,Soko Fresh Embakasi Kiosk 2,Kiosk,Nairobi,Nairobi Metro,Embakasi,2022-06-03
+152,Soko Fresh Nakuru Town Kiosk 2,Kiosk,Nakuru,Rift Valley,Nakuru Town,2021-01-29
+153,Soko Fresh Kitengela Mini-mart 5,Mini-mart,Kajiado,Nairobi Metro,Kitengela,2018-08-08
+154,Soko Fresh Thika Kiosk 4,Kiosk,Kiambu,Nairobi Metro,Thika,2018-01-14
+155,Soko Fresh Syokimau Mini-mart 3,Mini-mart,Machakos,Nairobi Metro,Syokimau,2022-02-24
+156,Soko Fresh Burnt Forest Kiosk 3,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2024-01-05
+157,Soko Fresh Kiambu Town Mini-mart 5,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2023-12-04
+158,Soko Fresh Kikuyu Kiosk 5,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2023-03-18
+159,Soko Fresh Kiambu Town Kiosk 6,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2022-02-18
+160,Soko Fresh Sagana Kiosk 3,Kiosk,Kirinyaga,Mt Kenya,Sagana,2019-12-20
+161,Soko Fresh Kakamega Town Mini-mart 2,Mini-mart,Kakamega,Western,Kakamega Town,2023-05-31
+162,Soko Fresh Kasarani Supermarket 8,Supermarket,Nairobi,Nairobi Metro,Kasarani,2021-09-14
+163,Soko Fresh Engineer Mini-mart 2,Mini-mart,Nyandarua,Rift Valley,Engineer,2023-08-26
+164,Soko Fresh Meru Town Mini-mart 5,Mini-mart,Meru,Mt Kenya,Meru Town,2021-01-06
+165,Soko Fresh Kileleshwa Kiosk 4,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2018-07-24
+166,Soko Fresh Molo Kiosk 6,Kiosk,Nakuru,Rift Valley,Molo,2020-10-15
+167,Soko Fresh Murang'a Town Kiosk 2,Kiosk,Murang'a,Mt Kenya,Murang'a Town,2019-05-30
+168,Soko Fresh Milimani Supermarket 4,Supermarket,Kisumu,Nyanza,Milimani,2021-02-13
+169,Soko Fresh Karatina Kiosk 5,Kiosk,Nyeri,Mt Kenya,Karatina,2023-12-25
+170,Soko Fresh Kilimani Mini-mart 4,Mini-mart,Nairobi,Nairobi Metro,Kilimani,2021-07-14
+171,Soko Fresh Maua Kiosk 3,Kiosk,Meru,Mt Kenya,Maua,2020-09-08
+172,Soko Fresh Syokimau Supermarket 4,Supermarket,Machakos,Nairobi Metro,Syokimau,2022-01-18
+173,Soko Fresh Nanyuki Kiosk 4,Kiosk,Laikipia,Rift Valley,Nanyuki,2022-08-07
+174,Soko Fresh Naivasha Kiosk 2,Kiosk,Nakuru,Rift Valley,Naivasha,2022-06-07
+175,Soko Fresh Watamu Kiosk 2,Kiosk,Kilifi,Coast,Watamu,2024-09-13
+176,Soko Fresh Thika Mini-mart 5,Mini-mart,Kiambu,Nairobi Metro,Thika,2022-12-25
+177,Soko Fresh Bungoma Town Kiosk 2,Kiosk,Bungoma,Western,,2021-10-14
+178,Soko Fresh Ruiru Mini-mart 5 ,Mini-mart,Kiambu,Nairobi Metro,Ruiru,2020-06-16
+179,Soko Fresh Milimani Kiosk 5 ,Kiosk,Kisumu,Nyanza,Milimani,2021-08-27
+180,Soko Fresh Kondele Mini-mart 6,Mini-mart,Kisumu,Nyanza,Kondele,2021-10-27
+181,Soko Fresh Donholm Mini-mart 4,Mini-mart,Nairobi,Nairobi Metro,Donholm,2021-03-15
+182,Soko Fresh Kilimani Mini-mart 5,Mini-mart,Nairobi,Nairobi Metro,Kilimani,2021-09-07
+183,Soko Fresh Kileleshwa Mini-mart 5,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2025-05-24
+184,Soko Fresh Othaya Kiosk 3,Kiosk,Nyeri,Mt Kenya,Othaya,2023-09-18
+185,Soko Fresh Likoni Supermarket 3,Supermarket,Mombasa,Coast,Likoni,2021-02-17
+186,Soko Fresh Athi River Mini-mart 2,Mini-mart,Machakos,Nairobi Metro,Athi River,2018-08-06
+187,Soko Fresh Kiambu Town Kiosk 7,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2018-03-14
+188,Soko Fresh Kikuyu Mini-mart 6,Mini-mart,Kiambu,Nairobi Metro,Kikuyu,2021-11-29
+189,Soko Fresh Kikuyu Mini-mart 7,Mini-mart,Kiambu,Nairobi Metro,Kikuyu,2019-02-02
+190,Soko Fresh Langata Kiosk 6,Kiosk,Nairobi,Nairobi Metro,Langata,2019-06-26
+191,Soko Fresh Kutus Kiosk 2,Kiosk,Kirinyaga,Mt Kenya,Kutus,2022-09-04
+192,Soko Fresh Runyenjes Kiosk 1,Kiosk,Embu,Mt Kenya,Runyenjes,2024-03-19
+193,Soko Fresh Nkubu Kiosk 3,Kiosk,Meru,Mt Kenya,Nkubu,2021-10-03
+194,Soko Fresh Burnt Forest Kiosk 4,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2020-01-30
+195,Soko Fresh Embakasi Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Embakasi,2018-08-20
+196,Soko Fresh Kondele Mini-mart 7,Mini-mart,Kisumu,Nyanza,Kondele,2020-07-02
+197,Soko Fresh Syokimau Mini-mart 5,Mini-mart,Machakos,Nairobi Metro,Syokimau,2019-06-23
+198,Soko Fresh Naivasha Kiosk 3,Kiosk,Nakuru,Rift Valley,Naivasha,2022-09-22
+199,Soko Fresh Kilifi Town Kiosk 3,Kiosk,Kilifi,Coast,Kilifi Town,2023-04-04
+200,Soko Fresh Ruaka Kiosk 3,Kiosk,Nairobi,Nairobi Metro,Ruaka,2018-05-24
+201,Soko Fresh Malindi Mini-mart 2,Mini-mart,Kilifi,Coast,Malindi,2019-05-11
+202,Soko Fresh Gilgil Kiosk 2,Kiosk,Nakuru,Rift Valley,,2019-08-16
+203,Soko Fresh Ogembo Kiosk 4,Kiosk,Kisii,Nyanza,Ogembo,2022-01-20
+204,Soko Fresh Embakasi Kiosk 4,Kiosk,Nairobi,Nairobi Metro,Embakasi,2020-02-26
+205,Soko Fresh Nakuru Town Kiosk 3,Kiosk,Nakuru,Rift Valley,Nakuru Town,2024-09-18
+206,Soko Fresh Engineer Mini-mart 3,Mini-mart,Nyandarua,Rift Valley,Engineer,2024-01-13
+207,Soko Fresh Naivasha Kiosk 4 ,Kiosk,Nakuru,Rift Valley,Naivasha,2019-06-21
+208,Soko Fresh Maua Mini-mart 4,Mini-mart,Meru,Mt Kenya,Maua,2018-12-10
+209,Soko Fresh Embakasi Mini-mart 5,Mini-mart,Nairobi,Nairobi Metro,Embakasi,2024-01-16
+210,Soko Fresh Kikuyu Kiosk 8,Kiosk,Kiambu,Nairobi Metro,,2022-04-21
+211,Soko Fresh Langata Supermarket 7,Supermarket,Nairobi,Nairobi Metro,Langata,2024-07-16
+212,Soko Fresh Westlands Supermarket 11,Supermarket,Nairobi,Nairobi Metro,Westlands,2019-04-19
+213,Soko Fresh Watamu Supermarket 3,Supermarket,Kilifi,Coast,Watamu,2023-04-05
+214,Soko Fresh Westlands Mini-mart 12,Mini-mart,Nairobi,Nairobi Metro,Westlands,2021-09-08
+215,Soko Fresh Bamburi Kiosk 4,Kiosk,Mombasa,Coast,Bamburi,2019-04-30
+216,Soko Fresh Milimani Kiosk 6,Kiosk,Kisumu,Nyanza,Milimani,2018-03-03
+217,Soko Fresh Embu Town Kiosk 3,Kiosk,Embu,Mt Kenya,Embu Town,2021-05-14
+218,Soko Fresh Juja Kiosk 2,Kiosk,Kiambu,Nairobi Metro,Juja,2020-11-22
+219,Soko Fresh Kileleshwa Mini-mart 6,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2019-11-15
+220,Soko Fresh Westlands Mini-mart 13,Mini-mart,Nairobi,Nairobi Metro,Westlands,2022-11-24
+221,Soko Fresh Westlands Mini-mart 14,Mini-mart,Nairobi,Nairobi Metro,Westlands,2021-07-17
+222,Soko Fresh Kasarani Kiosk 9,Kiosk,Nairobi,Nairobi Metro,Kasarani,2020-11-08
+223,Soko Fresh Nyahururu Kiosk 2,Kiosk,Laikipia,Rift Valley,Nyahururu,2021-12-02
+224,Soko Fresh Ruiru Mini-mart 6,Mini-mart,Kiambu,Nairobi Metro,Ruiru,2020-03-17
+225,Soko Fresh Mombasa CBD Mini-mart 4,Mini-mart,Mombasa,Coast,Mombasa CBD,2018-08-13
+226,Soko Fresh Ogembo Kiosk 5,Kiosk,Kisii,Nyanza,Ogembo,2021-09-15
+227,Soko Fresh Bamburi Mini-mart 5,Mini-mart,Mombasa,Coast,Bamburi,2022-06-12
+228,Soko Fresh Watamu Kiosk 4,Kiosk,Kilifi,Coast,Watamu,2018-05-04
+229,Soko Fresh Burnt Forest Mini-mart 5,Mini-mart,Uasin Gishu,Rift Valley,Burnt Forest,2020-06-16
+230,Soko Fresh Litein Mini-mart 6,Mini-mart,Kericho,Rift Valley,Litein,2018-04-05
+231,Soko Fresh Kasarani Kiosk 10,Kiosk,Nairobi,Nairobi Metro,Kasarani,2020-10-12
+232,Soko Fresh Murang'a Town Mini-mart 3,Mini-mart,Murang'a,Mt Kenya,Murang'a Town,2020-06-10
+233,Soko Fresh Mombasa CBD Kiosk 5,Kiosk,Mombasa,Coast,Mombasa CBD,2019-09-28
+234,Soko Fresh Kileleshwa Mini-mart 7,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2020-08-06
+235,Soko Fresh Naivasha Kiosk 5 ,Kiosk,Nakuru,Rift Valley,Naivasha,2020-04-16
+236,Soko Fresh Ruaka Supermarket 4,Supermarket,Nairobi,Nairobi Metro,Ruaka,2018-07-12
+237,Soko Fresh Mumias Mini-mart 4,Mini-mart,Kakamega,Western,Mumias,2021-12-14
+238,Soko Fresh Mtwapa Kiosk 5,Kiosk,Mombasa,Coast,Mtwapa,2024-07-17
+239,Soko Fresh Kikuyu Kiosk 9,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2026-03-08
+240,Soko Fresh Mombasa CBD Kiosk 6,Kiosk,Mombasa,Coast,Mombasa CBD,2025-01-03
+241,Soko Fresh Nyali Kiosk 5,Kiosk,Mombasa,Coast,Nyali,2022-05-10
+242,Soko Fresh Thika Supermarket 6,Supermarket,Kiambu,Nairobi Metro,Thika,2021-04-14
+243,Soko Fresh Kilimani Supermarket 6,Supermarket,Nairobi,Nairobi Metro,Kilimani,2018-08-23
+244,Soko Fresh Kisumu CBD Kiosk 3,Kiosk,Kisumu,Nyanza,Kisumu CBD,2018-11-27
+245,Soko Fresh Kericho Town Kiosk 1,Kiosk,Kericho,Rift Valley,Kericho Town,2019-10-30
+246,Soko Fresh Embakasi Mini-mart 6,Mini-mart,Nairobi,Nairobi Metro,Embakasi,2019-05-31
+247,Soko Fresh Likoni Kiosk 4,Kiosk,Mombasa,Coast,Likoni,2025-07-28
+248,Soko Fresh Ol Kalou Kiosk 2,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2018-12-08
+249,Soko Fresh Nkubu Kiosk 4,Kiosk,Meru,Mt Kenya,Nkubu,2022-05-22
+250,Soko Fresh Kutus Kiosk 3,Kiosk,Kirinyaga,Mt Kenya,Kutus,2018-07-08
+251,Soko Fresh Mumias Kiosk 5,Kiosk,Kakamega,Western,Mumias,2022-10-03
+252,Soko Fresh Ngong Kiosk 2,Kiosk,Kajiado,Nairobi Metro,Ngong,2020-10-11
+253,Soko Fresh Ongata Rongai Kiosk 4,Kiosk,Kajiado,Nairobi Metro,Ongata Rongai,2023-02-07
+254,Soko Fresh Kasarani Kiosk 11,Kiosk,Nairobi,Nairobi Metro,Kasarani,2024-03-04
+255,Soko Fresh Karatina Mini-mart 6 ,Mini-mart,Nyeri,Mt Kenya,Karatina,2021-08-19
+256,Soko Fresh Juja Kiosk 3,Kiosk,Kiambu,Nairobi Metro,Juja,2024-11-13
+257,Soko Fresh Juja Kiosk 4,Kiosk,Kiambu,Nairobi Metro,Juja,2025-10-07
+258,Soko Fresh Malindi Kiosk 3,Kiosk,Kilifi,Coast,Malindi,2021-02-01
+259,Soko Fresh Westlands Kiosk 15,Kiosk,Nairobi,Nairobi Metro,Westlands,2022-10-17
+260,Soko Fresh Engineer Supermarket 4,Supermarket,Nyandarua,Rift Valley,Engineer,2023-05-24
+261,Soko Fresh Kikuyu Mini-mart 10,Mini-mart,Kiambu,Nairobi Metro,Kikuyu,2021-09-22
+262,Soko Fresh Likoni Mini-mart 5,Mini-mart,Mombasa,Coast,Likoni,2018-07-01
+263,Soko Fresh Kilifi Town Kiosk 4,Kiosk,Kilifi,Coast,Kilifi Town,2021-09-04
+264,Soko Fresh Embakasi Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Embakasi,2025-11-19
+265,Soko Fresh Kiambu Town Kiosk 8,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2023-06-19
+266,Soko Fresh Eldoret Kiosk 3,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2022-03-02
+267,Soko Fresh Ogembo Kiosk 6,Kiosk,Kisii,Nyanza,Ogembo,2023-03-06
+268,Soko Fresh Milimani Mini-mart 7,Mini-mart,Kisumu,Nyanza,Milimani,2020-05-30
+269,Soko Fresh Syokimau Kiosk 6,Kiosk,Machakos,Nairobi Metro,Syokimau,2018-04-22
+270,Soko Fresh Kilifi Town Kiosk 5,Kiosk,Kilifi,Coast,Kilifi Town,2021-03-30
+271,Soko Fresh Bamburi Kiosk 6,Kiosk,Mombasa,Coast,Bamburi,2024-12-20
+272,Soko Fresh Nakuru Town Kiosk 4,Kiosk,Nakuru,Rift Valley,Nakuru Town,2022-08-02
+273,Soko Fresh Nyahururu Kiosk 3,Kiosk,Laikipia,Rift Valley,Nyahururu,2023-11-22
+274,Soko Fresh Mumias Supermarket 6,Supermarket,Kakamega,Western,Mumias,2022-10-18
+275,Soko Fresh Thika Kiosk 7,Kiosk,Kiambu,Nairobi Metro,Thika,2021-12-18
+276,Soko Fresh Meru Town Kiosk 6,Kiosk,Meru,Mt Kenya,Meru Town,2021-03-27
+277,Soko Fresh Engineer Mini-mart 5,Mini-mart,Nyandarua,Rift Valley,Engineer,2021-01-10
+278,Soko Fresh Westlands Mini-mart 16,Mini-mart,Nairobi,Nairobi Metro,Westlands,2018-01-01
+279,Soko Fresh Syokimau Kiosk 7,Kiosk,Machakos,Nairobi Metro,Syokimau,2020-10-24
+280,Soko Fresh Othaya Kiosk 4,Kiosk,Nyeri,Mt Kenya,Othaya,2021-08-22
+281,Soko Fresh Kitengela Kiosk 6,Kiosk,Kajiado,Nairobi Metro,Kitengela,2025-04-22
+282,Soko Fresh Westlands Kiosk 17,Kiosk,Nairobi,Nairobi Metro,Westlands,2018-01-05
+283,Soko Fresh Kilifi Town Kiosk 6,Kiosk,Kilifi,Coast,Kilifi Town,2022-09-16
+284,Soko Fresh Nanyuki Kiosk 5,Kiosk,Laikipia,Rift Valley,,2021-02-27
+285,Soko Fresh Likoni Mini-mart 6,Mini-mart,Mombasa,Coast,Likoni,2021-04-17
+286,Soko Fresh Ol Kalou Mini-mart 3,Mini-mart,Nyandarua,Rift Valley,Ol Kalou,2022-09-18
+287,Soko Fresh Bungoma Town Kiosk 3,Kiosk,Bungoma,Western,Bungoma Town,2024-11-14
+288,Soko Fresh Kisii Town Mini-mart 3,Mini-mart,Kisii,Nyanza,Kisii Town,2022-01-23
+289,Soko Fresh Nyahururu Mini-mart 4,Mini-mart,Laikipia,Rift Valley,Nyahururu,2025-06-07
+290,Soko Fresh Nyali Kiosk 6,Kiosk,Mombasa,Coast,Nyali,2018-10-05
+291,Soko Fresh Kakamega Town Mini-mart 3,Mini-mart,Kakamega,Western,Kakamega Town,2023-11-28
+292,Soko Fresh Kilifi Town Kiosk 7,Kiosk,Kilifi,Coast,Kilifi Town,2020-05-24
+293,Soko Fresh Kilimani Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Kilimani,2021-10-04
+294,Soko Fresh Webuye Kiosk 2,Kiosk,Bungoma,Western,Webuye,2019-10-19
+295,Soko Fresh Kitengela Kiosk 7,Kiosk,Kajiado,Nairobi Metro,Kitengela,2020-07-20
+296,Soko Fresh Likoni Supermarket 7,Supermarket,Mombasa,Coast,Likoni,2020-08-08
+297,Soko Fresh Kiambu Town Kiosk 9,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2025-11-09
+298,Soko Fresh Burnt Forest Kiosk 6,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2022-11-22
+299,Soko Fresh Kasarani Kiosk 12,Kiosk,Nairobi,Nairobi Metro,Kasarani,2019-10-05
+300,Soko Fresh Meru Town Kiosk 7,Kiosk,Meru,Mt Kenya,Meru Town,2018-01-26
+301,Soko Fresh Kilimani Mini-mart 8,Mini-mart,Nairobi,Nairobi Metro,Kilimani,2019-02-23
+302,Soko Fresh Juja Kiosk 5,Kiosk,Kiambu,Nairobi Metro,Juja,2018-08-01
+303,Soko Fresh Langata Kiosk 8,Kiosk,Nairobi,Nairobi Metro,Langata,2021-05-07
+304,Soko Fresh Bamburi Kiosk 7,Kiosk,Mombasa,Coast,Bamburi,2023-06-01
+305,Soko Fresh Kakamega Town Kiosk 4,Kiosk,Kakamega,Western,Kakamega Town,2018-05-08
+306,Soko Fresh Burnt Forest Kiosk 7,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2021-07-04
+307,Soko Fresh Kenol Supermarket 2,Supermarket,Murang'a,Mt Kenya,Kenol,2020-01-18
+308,Soko Fresh Bamburi Kiosk 8,Kiosk,Mombasa,Coast,Bamburi,2019-06-11
+309,Soko Fresh Mombasa CBD Mini-mart 7,Mini-mart,Mombasa,Coast,Mombasa CBD,2022-05-14
+310,Soko Fresh Naivasha Kiosk 6,Kiosk,Nakuru,Rift Valley,Naivasha,2021-12-02
+311,Soko Fresh Eldoret Kiosk 4,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2022-10-07
+312,Soko Fresh Othaya Mini-mart 5,Mini-mart,Nyeri,Mt Kenya,Othaya,2020-05-08
+313,Soko Fresh Litein Supermarket 7,Supermarket,Kericho,Rift Valley,Litein,2018-08-18
+314,Soko Fresh Kileleshwa Mini-mart 8,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2018-08-21
+315,Soko Fresh Milimani Kiosk 8,Kiosk,Kisumu,Nyanza,Milimani,2020-10-11
+316,Soko Fresh Nyeri Town Kiosk 2,Kiosk,Nyeri,Mt Kenya,Nyeri Town,2022-03-10
+317,Soko Fresh Othaya Kiosk 6,Kiosk,Nyeri,Mt Kenya,Othaya,2023-09-02
+318,Soko Fresh Maua Mini-mart 5,Mini-mart,Meru,Mt Kenya,Maua,2024-01-03
+319,Soko Fresh Milimani Kiosk 9,Kiosk,Kisumu,Nyanza,Milimani,2022-09-06
+320,Soko Fresh Webuye Mini-mart 3,Mini-mart,Bungoma,Western,Webuye,2022-08-10
+321,Soko Fresh Nakuru Town Kiosk 5,Kiosk,Nakuru,Rift Valley,Nakuru Town,2018-01-31
+322,Soko Fresh Embakasi Kiosk 8,Kiosk,Nairobi,Nairobi Metro,Embakasi,2018-06-05
+323,Soko Fresh Bamburi Kiosk 9,Kiosk,Mombasa,Coast,Bamburi,2022-11-30
+324,Soko Fresh Thika Supermarket 8,Supermarket,Kiambu,Nairobi Metro,Thika,2023-10-31
+325,Soko Fresh Nakuru Town Kiosk 6,Kiosk,Nakuru,Rift Valley,Nakuru Town,2018-09-03
+326,Soko Fresh Mumias Kiosk 7,Kiosk,Kakamega,Western,Mumias,2021-09-26
+327,Soko Fresh Kileleshwa Kiosk 9,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2024-05-19
+328,Soko Fresh Syokimau Mini-mart 8,Mini-mart,Machakos,Nairobi Metro,Syokimau,2021-12-29
+329,Soko Fresh Kilimani Kiosk 9,Kiosk,Nairobi,Nairobi Metro,Kilimani,2018-09-08
+330,Soko Fresh Mombasa CBD Kiosk 8,Kiosk,Mombasa,Coast,Mombasa CBD,2023-06-17
+331,Soko Fresh Gilgil Supermarket 3,Supermarket,Nakuru,Rift Valley,Gilgil,2023-08-21
+332,Soko Fresh Eldoret Mini-mart 5,Mini-mart,Uasin Gishu,Rift Valley,Eldoret,2020-09-25
+333,Soko Fresh Molo Supermarket 7,Supermarket,Nakuru,Rift Valley,Molo,2020-02-11
+334,Soko Fresh Runyenjes Kiosk 2,Kiosk,Embu,Mt Kenya,Runyenjes,2023-06-11
+335,Soko Fresh Naivasha Kiosk 7 ,Kiosk,Nakuru,Rift Valley,Naivasha,2018-04-19
+336,Soko Fresh Mumias Kiosk 8,Kiosk,Kakamega,Western,Mumias,2019-01-10
+337,Soko Fresh Milimani Kiosk 10,Kiosk,Kisumu,Nyanza,Milimani,2020-04-25
+338,Soko Fresh Kondele Kiosk 8,Kiosk,Kisumu,Nyanza,Kondele,2020-08-10
+339,Soko Fresh Kileleshwa Kiosk 10,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2022-10-22
+340,Soko Fresh Embakasi Supermarket 9,Supermarket,Nairobi,Nairobi Metro,Embakasi,2019-10-03
+341,Soko Fresh Mombasa CBD Mini-mart 9,Mini-mart,Mombasa,Coast,Mombasa CBD,2018-05-10
+342,Soko Fresh Kisumu CBD Kiosk 4,Kiosk,Kisumu,Nyanza,,2020-08-13
+343,Soko Fresh Kileleshwa Supermarket 11,Supermarket,Nairobi,Nairobi Metro,Kileleshwa,2026-01-13
+344,Soko Fresh Ruaka Mini-mart 5,Mini-mart,Nairobi,Nairobi Metro,Ruaka,2020-06-29
+345,Soko Fresh Kiambu Town Mini-mart 10,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2020-07-21
+346,Soko Fresh Kondele Supermarket 9,Supermarket,Kisumu,Nyanza,Kondele,2019-12-19
+347,Soko Fresh Engineer Supermarket 6,Supermarket,Nyandarua,Rift Valley,Engineer,2023-01-03
+348,Soko Fresh Kasarani Kiosk 13,Kiosk,Nairobi,Nairobi Metro,Kasarani,2021-02-13
+349,Soko Fresh Runyenjes Mini-mart 3,Mini-mart,Embu,Mt Kenya,Runyenjes,2022-11-02
+350,Soko Fresh Bamburi Kiosk 10,Kiosk,Mombasa,Coast,Bamburi,2020-06-16
+351,Soko Fresh Kerugoya Mini-mart 1,Mini-mart,Kirinyaga,Mt Kenya,Kerugoya,2024-07-28
+352,Soko Fresh Bungoma Town Kiosk 4,Kiosk,Bungoma,Western,Bungoma Town,2019-06-15
+353,Soko Fresh Litein Kiosk 8,Kiosk,Kericho,Rift Valley,Litein,2020-06-15
+354,Soko Fresh Ruaka Kiosk 6,Kiosk,Nairobi,Nairobi Metro,Ruaka,2020-10-20
+355,Soko Fresh Thika Mini-mart 9,Mini-mart,Kiambu,Nairobi Metro,Thika,2019-11-23
+356,Soko Fresh Westlands Supermarket 18,Supermarket,Nairobi,Nairobi Metro,Westlands,2022-08-18
+357,Soko Fresh Thika Kiosk 10,Kiosk,Kiambu,Nairobi Metro,Thika,2022-08-11
+358,Soko Fresh Ngong Mini-mart 3 ,Mini-mart,Kajiado,Nairobi Metro,Ngong,2020-01-07
+359,Soko Fresh Syokimau Supermarket 9,Supermarket,Machakos,Nairobi Metro,,2018-07-06
+360,Soko Fresh Naivasha Kiosk 8,Kiosk,Nakuru,Rift Valley,Naivasha,2019-03-24
+361,Soko Fresh Ruiru Kiosk 7,Kiosk,Kiambu,Nairobi Metro,,2023-05-02
+362,Soko Fresh Westlands Mini-mart 19,Mini-mart,Nairobi,Nairobi Metro,Westlands,2020-10-11
+363,Soko Fresh Malindi Kiosk 4,Kiosk,Kilifi,Coast,Malindi,2018-10-14
+364,Soko Fresh Ruaka Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Ruaka,2019-01-07
+365,Soko Fresh Ongata Rongai Mini-mart 5,Mini-mart,Kajiado,Nairobi Metro,Ongata Rongai,2023-06-13
+366,Soko Fresh Ongata Rongai Kiosk 6,Kiosk,Kajiado,Nairobi Metro,Ongata Rongai,2020-01-19
+367,Soko Fresh Ongata Rongai Kiosk 7,Kiosk,Kajiado,Nairobi Metro,,2022-12-08
+368,Soko Fresh Kakamega Town Kiosk 5,Kiosk,Kakamega,Western,Kakamega Town,2018-09-15
+369,Soko Fresh Karatina Kiosk 7,Kiosk,Nyeri,Mt Kenya,Karatina,2020-11-28
+370,Soko Fresh Kisumu CBD Mini-mart 5,Mini-mart,Kisumu,Nyanza,Kisumu CBD,2023-11-26
+371,Soko Fresh Webuye Kiosk 4,Kiosk,Bungoma,Western,Webuye,2024-12-10
+372,Soko Fresh Machakos Town Kiosk 2,Kiosk,Machakos,Nairobi Metro,Machakos Town,2019-02-08
+373,Soko Fresh Langata Kiosk 9,Kiosk,Nairobi,Nairobi Metro,Langata,2018-06-28
+374,Soko Fresh Naivasha Mini-mart 9,Mini-mart,Nakuru,Rift Valley,Naivasha,2024-02-12
+375,Soko Fresh Langata Kiosk 10,Kiosk,Nairobi,Nairobi Metro,Langata,2018-09-21
+376,Soko Fresh Mtwapa Kiosk 6,Kiosk,Mombasa,Coast,Mtwapa,2021-07-03
+377,Soko Fresh Donholm Kiosk 5,Kiosk,Nairobi,Nairobi Metro,Donholm,2019-10-04
+378,Soko Fresh Engineer Mini-mart 7,Mini-mart,Nyandarua,Rift Valley,Engineer,2022-01-28
+379,Soko Fresh Kikuyu Kiosk 11,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2019-02-12
+380,Soko Fresh Ruiru Mini-mart 8,Mini-mart,Kiambu,Nairobi Metro,Ruiru,2018-03-03
+381,Soko Fresh Othaya Mini-mart 7,Mini-mart,Nyeri,Mt Kenya,Othaya,2026-01-11
+382,Soko Fresh Ogembo Kiosk 7,Kiosk,Kisii,Nyanza,Ogembo,2018-10-12
+383,Soko Fresh Molo Mini-mart 8,Mini-mart,Nakuru,Rift Valley,Molo,2026-01-04
+384,Soko Fresh Maua Kiosk 6,Kiosk,Meru,Mt Kenya,Maua,2019-08-07
+385,Soko Fresh Mtwapa Supermarket 7,Supermarket,Mombasa,Coast,,2023-03-24
+386,Soko Fresh Ol Kalou Kiosk 4,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2021-11-15
+387,Soko Fresh Likoni Kiosk 8,Kiosk,Mombasa,Coast,Likoni,2019-08-30
+388,Soko Fresh Kitengela Kiosk 8,Kiosk,Kajiado,Nairobi Metro,Kitengela,2023-03-26
+389,Soko Fresh Ol Kalou Kiosk 5,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2024-05-05
+390,Soko Fresh Mombasa CBD Kiosk 10,Kiosk,Mombasa,Coast,Mombasa CBD,2020-05-09
+391,Soko Fresh Kericho Town Mini-mart 2,Mini-mart,Kericho,Rift Valley,Kericho Town,2023-12-03
+392,Soko Fresh Juja Mini-mart 6,Mini-mart,Kiambu,Nairobi Metro,Juja,2023-11-28
+393,Soko Fresh Molo Kiosk 9,Kiosk,Nakuru,Rift Valley,Molo,2020-05-09
+394,Soko Fresh Kileleshwa Kiosk 12,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2024-11-08
+395,Soko Fresh Kileleshwa Kiosk 13,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2024-03-24
+396,Soko Fresh Naivasha Mini-mart 10,Mini-mart,Nakuru,Rift Valley,Naivasha,2023-07-16
+397,Soko Fresh Embakasi Mini-mart 10,Mini-mart,Nairobi,Nairobi Metro,Embakasi,2020-08-28
+398,Soko Fresh Ruiru Mini-mart 9,Mini-mart,Kiambu,Nairobi Metro,Ruiru,2021-09-18
+399,Soko Fresh Ogembo Kiosk 8,Kiosk,Kisii,Nyanza,Ogembo,2021-07-03
+400,Soko Fresh Mumias Kiosk 9,Kiosk,Kakamega,Western,Mumias,2025-06-07
+401,Soko Fresh Kikuyu Supermarket 12,Supermarket,Kiambu,Nairobi Metro,Kikuyu,2025-11-12
+402,Soko Fresh Westlands Kiosk 20,Kiosk,Nairobi,Nairobi Metro,Westlands,2019-01-23
+403,Soko Fresh Ol Kalou Kiosk 6,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2020-04-04
+404,Soko Fresh Nyeri Town Kiosk 3,Kiosk,Nyeri,Mt Kenya,Nyeri Town,2024-09-16
+405,Soko Fresh Donholm Kiosk 6,Kiosk,Nairobi,Nairobi Metro,Donholm,2023-09-04
+406,Soko Fresh Langata Mini-mart 11,Mini-mart,Nairobi,Nairobi Metro,Langata,2018-02-21
+407,Soko Fresh Nakuru Town Kiosk 7,Kiosk,Nakuru,Rift Valley,Nakuru Town,2020-07-25
+408,Soko Fresh Engineer Supermarket 8,Supermarket,Nyandarua,Rift Valley,Engineer,2023-10-05
+409,Soko Fresh Ongata Rongai Mini-mart 8,Mini-mart,Kajiado,Nairobi Metro,Ongata Rongai,2022-07-05
+410,Soko Fresh Gilgil Mini-mart 4,Mini-mart,Nakuru,Rift Valley,Gilgil,2022-05-06
+411,Soko Fresh Kitengela Supermarket 9,Supermarket,Kajiado,Nairobi Metro,Kitengela,2019-02-23
+412,Soko Fresh Thika Supermarket 11,Supermarket,Kiambu,Nairobi Metro,Thika,2021-05-11
+413,Soko Fresh Runyenjes Kiosk 4,Kiosk,Embu,Mt Kenya,Runyenjes,2020-12-27
+414,Soko Fresh Kondele Mini-mart 10,Mini-mart,Kisumu,Nyanza,Kondele,2022-09-17
+415,Soko Fresh Milimani Kiosk 11,Kiosk,Kisumu,Nyanza,Milimani,2025-12-17
+416,Soko Fresh Mombasa CBD Mini-mart 11,Mini-mart,Mombasa,Coast,Mombasa CBD,2020-02-28
+417,Soko Fresh Runyenjes Kiosk 5,Kiosk,Embu,Mt Kenya,Runyenjes,2022-02-26
+418,Soko Fresh Kileleshwa Kiosk 14,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2020-08-02
+419,Soko Fresh Langata Kiosk 12,Kiosk,Nairobi,Nairobi Metro,Langata,2023-01-29
+420,Soko Fresh Mumias Supermarket 10,Supermarket,Kakamega,Western,Mumias,2023-02-10
+421,Soko Fresh Kileleshwa Kiosk 15,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2025-05-21
+422,Soko Fresh Nyeri Town Kiosk 4,Kiosk,Nyeri,Mt Kenya,Nyeri Town,2021-12-17
+423,Soko Fresh Gilgil Mini-mart 5,Mini-mart,Nakuru,Rift Valley,Gilgil,2018-02-07
+424,Soko Fresh Othaya Kiosk 8 ,Kiosk,Nyeri,Mt Kenya,Othaya,2020-11-08
+425,Soko Fresh Ongata Rongai Kiosk 9,Kiosk,Kajiado,Nairobi Metro,Ongata Rongai,2018-08-14
+426,Soko Fresh Ruiru Kiosk 10,Kiosk,Kiambu,Nairobi Metro,Ruiru,2021-06-04
+427,Soko Fresh Athi River Kiosk 3,Kiosk,Machakos,Nairobi Metro,Athi River,2025-02-20
+428,Soko Fresh Kileleshwa Kiosk 16,Kiosk,Nairobi,Nairobi Metro,Kileleshwa,2022-09-07
+429,Soko Fresh Kisii Town Kiosk 4,Kiosk,Kisii,Nyanza,Kisii Town,2019-04-15
+430,Soko Fresh Ruaka Kiosk 8,Kiosk,Nairobi,Nairobi Metro,Ruaka,2020-11-29
+431,Soko Fresh Kileleshwa Mini-mart 17,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2024-05-18
+432,Soko Fresh Gilgil Mini-mart 6,Mini-mart,Nakuru,Rift Valley,Gilgil,2022-07-23
+433,Soko Fresh Ngong Kiosk 4 ,Kiosk,Kajiado,Nairobi Metro,Ngong,2024-10-08
+434,Soko Fresh Juja Supermarket 7,Supermarket,Kiambu,Nairobi Metro,Juja,2018-05-08
+435,Soko Fresh Mtwapa Kiosk 8,Kiosk,Mombasa,Coast,Mtwapa,2019-08-10
+436,Soko Fresh Eldoret Supermarket 6,Supermarket,Uasin Gishu,Rift Valley,Eldoret,2018-03-29
+437,Soko Fresh Juja Supermarket 8,Supermarket,Kiambu,Nairobi Metro,Juja,2021-01-17
+438,Soko Fresh Kilimani Kiosk 10,Kiosk,Nairobi,Nairobi Metro,Kilimani,2022-02-16
+439,Soko Fresh Nyahururu Mini-mart 5,Mini-mart,Laikipia,Rift Valley,Nyahururu,2018-04-12
+440,Soko Fresh Molo Mini-mart 10,Mini-mart,Nakuru,Rift Valley,Molo,2024-07-27
+441,Soko Fresh Kenol Kiosk 3,Kiosk,Murang'a,Mt Kenya,Kenol,2018-12-24
+442,Soko Fresh Eldoret Kiosk 7,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2022-09-27
+443,Soko Fresh Juja Kiosk 9,Kiosk,Kiambu,Nairobi Metro,Juja,2019-10-31
+444,Soko Fresh Litein Mini-mart 9,Mini-mart,Kericho,Rift Valley,Litein,2020-01-04
+445,Soko Fresh Mtwapa Kiosk 9,Kiosk,Mombasa,Coast,Mtwapa,2019-01-19
+446,Soko Fresh Kasarani Kiosk 14,Kiosk,Nairobi,Nairobi Metro,Kasarani,2022-03-15
+447,Soko Fresh Donholm Kiosk 7,Kiosk,Nairobi,Nairobi Metro,Donholm,2018-09-22
+448,Soko Fresh Burnt Forest Kiosk 8,Kiosk,Uasin Gishu,Rift Valley,Burnt Forest,2020-09-12
+449,Soko Fresh Maua Kiosk 7,Kiosk,Meru,Mt Kenya,,2018-05-11
+450,Soko Fresh Juja Mini-mart 10,Mini-mart,Kiambu,Nairobi Metro,Juja,2023-10-28
+451,Soko Fresh Syokimau Kiosk 10,Kiosk,Machakos,Nairobi Metro,Syokimau,2024-11-27
+452,Soko Fresh Sagana Kiosk 4,Kiosk,Kirinyaga,Mt Kenya,Sagana,2019-06-19
+453,Soko Fresh Mombasa CBD Kiosk 12,Kiosk,Mombasa,Coast,,2021-07-12
+454,Soko Fresh Kakamega Town Mini-mart 6,Mini-mart,Kakamega,Western,,2023-07-10
+455,Soko Fresh Watamu Kiosk 5,Kiosk,Kilifi,Coast,Watamu,2019-10-10
+456,Soko Fresh Donholm Kiosk 8 ,Kiosk,Nairobi,Nairobi Metro,Donholm,2022-09-25
+457,Soko Fresh Naivasha Supermarket 11,Supermarket,Nakuru,Rift Valley,Naivasha,2026-03-07
+458,Soko Fresh Kiambu Town Kiosk 11,Kiosk,Kiambu,Nairobi Metro,Kiambu Town,2021-08-28
+459,Soko Fresh Kakamega Town Mini-mart 7,Mini-mart,Kakamega,Western,Kakamega Town,2021-08-31
+460,Soko Fresh Nyali Kiosk 7,Kiosk,Mombasa,Coast,Nyali,2021-06-05
+461,Soko Fresh Embu Town Mini-mart 4,Mini-mart,Embu,Mt Kenya,Embu Town,2019-06-08
+462,Soko Fresh Syokimau Kiosk 11,Kiosk,Machakos,Nairobi Metro,Syokimau,2024-02-29
+463,Soko Fresh Ongata Rongai Mini-mart 10,Mini-mart,Kajiado,Nairobi Metro,Ongata Rongai,2020-09-20
+464,Soko Fresh Kilifi Town Supermarket 8,Supermarket,Kilifi,Coast,Kilifi Town,2025-03-27
+465,Soko Fresh Eldoret Supermarket 8,Supermarket,Uasin Gishu,Rift Valley,Eldoret,2019-06-21
+466,Soko Fresh Embakasi Mini-mart 11,Mini-mart,Nairobi,Nairobi Metro,Embakasi,2021-05-31
+467,Soko Fresh Eldoret Kiosk 9,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2023-05-31
+468,Soko Fresh Kiambu Town Mini-mart 12,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2020-03-11
+469,Soko Fresh Nkubu Mini-mart 5,Mini-mart,Meru,Mt Kenya,Nkubu,2025-10-02
+470,Soko Fresh Ruaka Mini-mart 9,Mini-mart,Nairobi,Nairobi Metro,Ruaka,2022-11-14
+471,Soko Fresh Kangema Mini-mart 3,Mini-mart,Murang'a,Mt Kenya,Kangema,2023-04-14
+472,Soko Fresh Ruaka Mini-mart 10,Mini-mart,Nairobi,Nairobi Metro,Ruaka,2019-08-09
+473,Soko Fresh Embakasi Kiosk 12,Kiosk,Nairobi,Nairobi Metro,Embakasi,2020-02-16
+474,Soko Fresh Sagana Kiosk 5,Kiosk,Kirinyaga,Mt Kenya,Sagana,2023-07-25
+475,Soko Fresh Kilifi Town Kiosk 9,Kiosk,Kilifi,Coast,Kilifi Town,2025-04-10
+476,Soko Fresh Eldoret Kiosk 10,Kiosk,Uasin Gishu,Rift Valley,Eldoret,2023-10-11
+477,Soko Fresh Langata Kiosk 13,Kiosk,Nairobi,Nairobi Metro,,2021-04-23
+478,Soko Fresh Kileleshwa Mini-mart 18 ,Mini-mart,Nairobi,Nairobi Metro,Kileleshwa,2018-10-26
+479,Soko Fresh Webuye Kiosk 5,Kiosk,Bungoma,Western,Webuye,2022-08-13
+480,Soko Fresh Kenol Kiosk 4,Kiosk,Murang'a,Mt Kenya,Kenol,2022-10-03
+481,Soko Fresh Langata Kiosk 14,Kiosk,Nairobi,Nairobi Metro,Langata,2022-11-17
+482,Soko Fresh Bamburi Kiosk 11,Kiosk,Mombasa,Coast,Bamburi,2019-06-14
+483,Soko Fresh Meru Town Kiosk 8 ,Kiosk,Meru,Mt Kenya,Meru Town,2023-09-07
+484,Soko Fresh Nanyuki Mini-mart 6,Mini-mart,Laikipia,Rift Valley,Nanyuki,2022-04-01
+485,Soko Fresh Ol Kalou Kiosk 7,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2018-12-21
+486,Soko Fresh Kiambu Town Mini-mart 13,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2024-05-18
+487,Soko Fresh Engineer Mini-mart 9,Mini-mart,Nyandarua,Rift Valley,Engineer,2024-04-03
+488,Soko Fresh Langata Kiosk 15,Kiosk,Nairobi,Nairobi Metro,Langata,2023-12-21
+489,Soko Fresh Bamburi Mini-mart 12,Mini-mart,Mombasa,Coast,Bamburi,2024-06-28
+490,Soko Fresh Kiambu Town Mini-mart 14,Mini-mart,Kiambu,Nairobi Metro,Kiambu Town,2021-09-27
+491,Soko Fresh Ogembo Kiosk 9,Kiosk,Kisii,Nyanza,Ogembo,2023-08-15
+492,Soko Fresh Embakasi Kiosk 13,Kiosk,Nairobi,Nairobi Metro,Embakasi,2019-01-16
+493,Soko Fresh Maua Mini-mart 8,Mini-mart,Meru,Mt Kenya,Maua,2021-04-21
+494,Soko Fresh Westlands Kiosk 21,Kiosk,Nairobi,Nairobi Metro,Westlands,2020-12-10
+495,Soko Fresh Ruaka Kiosk 11,Kiosk,Nairobi,Nairobi Metro,Ruaka,2018-10-19
+496,Soko Fresh Kenol Supermarket 5,Supermarket,Murang'a,Mt Kenya,Kenol,2022-01-31
+497,Soko Fresh Webuye Kiosk 6,Kiosk,Bungoma,Western,Webuye,2018-02-18
+498,Soko Fresh Thika Supermarket 12,Supermarket,Kiambu,Nairobi Metro,Thika,2021-05-11
+499,Soko Fresh Gilgil Kiosk 7,Kiosk,Nakuru,Rift Valley,Gilgil,2020-08-09
+500,Soko Fresh Embakasi Kiosk 14,Kiosk,Nairobi,Nairobi Metro,Embakasi,2024-04-01
+501,Soko Fresh Mombasa CBD Kiosk 13 ,Kiosk,Mombasa,Coast,Mombasa CBD,2020-02-12
+502,Soko Fresh Kikuyu Kiosk 13,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2023-12-20
+503,Soko Fresh Kenol Kiosk 6,Kiosk,Murang'a,Mt Kenya,Kenol,2020-06-08
+504,Soko Fresh Donholm Supermarket 9,Supermarket,Nairobi,Nairobi Metro,Donholm,2023-11-12
+505,Soko Fresh Kericho Town Kiosk 3,Kiosk,Kericho,Rift Valley,Kericho Town,2021-05-28
+506,Soko Fresh Ol Kalou Kiosk 8,Kiosk,Nyandarua,Rift Valley,Ol Kalou,2023-02-23
+507,Soko Fresh Kondele Kiosk 11,Kiosk,Kisumu,Nyanza,Kondele,2023-05-20
+508,Soko Fresh Kikuyu Kiosk 14,Kiosk,Kiambu,Nairobi Metro,Kikuyu,2020-10-06
+509,Soko Fresh Machakos Town Supermarket 3 ,Supermarket,Machakos,Nairobi Metro,Machakos Town,2021-07-14
+510,Soko Fresh Kakamega Town Mini-mart 8,Mini-mart,Kakamega,Western,Kakamega Town,2019-03-30
+511,Soko Fresh Kasarani Mini-mart 15,Mini-mart,Nairobi,Nairobi Metro,Kasarani,2020-06-24
+512,Soko Fresh Kisumu CBD Kiosk 6,Kiosk,Kisumu,Nyanza,Kisumu CBD,2020-07-07
+513,Soko Fresh Nkubu Kiosk 6,Kiosk,Meru,Mt Kenya,Nkubu,2019-05-11
+514,Soko Fresh Engineer Mini-mart 10,Mini-mart,Nyandarua,Rift Valley,Engineer,2023-10-26
+515,Soko Fresh Bamburi Mini-mart 13,Mini-mart,Mombasa,Coast,Bamburi,2022-01-25
+516,Soko Fresh Kakamega Town Kiosk 9,Kiosk,Kakamega,Western,Kakamega Town,2024-12-14
+517,Soko Fresh Athi River Supermarket 4,Supermarket,Machakos,Nairobi Metro,Athi River,2022-08-26
+518,Soko Fresh Watamu Kiosk 6,Kiosk,Kilifi,Coast,Watamu,2020-02-21
+519,Soko Fresh Machakos Town Kiosk 4,Kiosk,Machakos,Nairobi Metro,Machakos Town,2023-12-01
+520,Soko Fresh Ngong Mini-mart 5,Mini-mart,Kajiado,Nairobi Metro,Ngong,2022-09-09

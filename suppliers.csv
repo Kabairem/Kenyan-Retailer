@@ -1,0 +1,521 @@
+supplier_id,supplier_name,supplier_type,county,contact_email
+1,Shamba Gold Industries Ltd,Manufacturer,Nairobi,sales@shambagold.co.ke
+2,Mlima Industries Ltd,Manufacturer,Embu,sales@mlima.co.ke
+3,Tausi Industries Ltd,Manufacturer,Nyandarua,sales@tausi.co.ke
+4,Jua Industries Ltd,Manufacturer,Mombasa,sales@jua.co.ke
+5,Kifaru Industries Ltd,Manufacturer,Kiambu,sales@kifaru.co.ke
+6,Pwani Pride Industries Ltd,Manufacturer,Kilifi,sales@pwanipride.co.ke
+7,Neema Industries Ltd,Manufacturer,Kakamega,SALES@NEEMA.CO.KE
+8,Tamu Tamu Industries Ltd,Manufacturer,Nairobi,sales@tamutamu.co.ke
+9,Simba Bora Industries Ltd,Manufacturer,Uasin Gishu,sales@simbabora.co.ke
+10,Nyota Industries Ltd,Manufacturer,Nairobi,sales@nyota.co.ke
+11,Upendo Industries Ltd,Manufacturer,Murang'a,sales@upendo.co.ke
+12,Kilele Industries Ltd,Manufacturer,Nyandarua,sales@kilele.co.ke
+13,Coastal Manufacturing Ltd,Manufacturer,Mombasa,info0@mfg-ke.com
+14,Equator Consumer Goods Ltd,Manufacturer,Kisii,
+15,Lakeside Manufacturing Ltd,Manufacturer,Uasin Gishu,info2@mfg-ke.com
+16,Coastal Consumer Goods Ltd,Manufacturer,Kakamega,info3@mfg-ke.com
+17,Baobab Mills Ltd,Manufacturer,Nakuru,
+18,Coastal Packers Ltd,Manufacturer,Laikipia,info5@mfg-ke.com
+19,Acacia Mills Ltd,Manufacturer,Nairobi,info6@mfg-ke.com
+20,Equator Consumer Goods Ltd,Manufacturer,Nairobi,info7@mfg-ke.com
+21,Equator Foods Ltd,Manufacturer,Nairobi,info8@mfg-ke.com
+22,Coastal Foods Ltd,Manufacturer,Machakos,
+23,Acacia Foods Ltd,Manufacturer,Embu,info10@mfg-ke.com
+24,Baobab Manufacturing Ltd,Manufacturer,Nairobi,info11@mfg-ke.com
+25,Rift Packers Ltd,Manufacturer,Meru,info12@mfg-ke.com
+26,Rift Manufacturing Ltd,Manufacturer,Nakuru,
+27,Savanna Packers Ltd,Manufacturer,Kiambu,
+28,Lakeside Mills Ltd,Manufacturer,Nairobi,info15@mfg-ke.com
+29,Lakeside Manufacturing Ltd,Manufacturer,Nairobi,
+30,Acacia Manufacturing Ltd,Manufacturer,Laikipia,info17@mfg-ke.com
+31,Kondele Merchants,Distributor,Kisumu,orders0@gmail.com
+32,Murang'a Town Supplies,Distributor,Murang'a,
+33,Meru Town Traders,Distributor,Meru,orders2@gmail.com
+34,Nanyuki Distributors,Distributor,Laikipia,orders3@gmail.com
+35,Machakos Town Wholesalers,Distributor,Machakos,orders4@gmail.com
+36,Ongata Rongai Merchants,Distributor,Kajiado,ORDERS5@GMAIL.COM
+37,Nyahururu Distributors,Distributor,Laikipia,orders6@gmail.com
+38,Kilimani Wholesalers,Distributor,Nairobi,
+39,Likoni Traders,Distributor,Mombasa,
+40,Bamburi Merchants,Distributor,Mombasa,orders9@gmail.com
+41,Westlands Supplies,Distributor,Nairobi,orders10@gmail.com
+42,Naivasha Traders,Distributor,Nakuru,orders11@gmail.com
+43,Ogembo Supplies,Distributor,Kisii,orders12@gmail.com
+44,Milimani Traders,Distributor,Kisumu,orders13@gmail.com
+45,Milimani Supplies,Distributor,Kisumu,orders14@gmail.com
+46,Langata Supplies,Distributor,Nairobi,
+47,Kiambu Town Distributors,Distributor,Kiambu,orders16@gmail.com
+48,Eldoret Merchants,Distributor,Uasin Gishu,
+49,Ruiru Merchants,Distributor,Kiambu,
+50,Engineer Wholesalers,Distributor,Nyandarua,orders19@gmail.com
+51,Maua Supplies,Distributor,Meru,orders20@gmail.com
+52,Embakasi Merchants,Distributor,Nairobi,orders21@gmail.com
+53,Kileleshwa Traders,Distributor,Nairobi,orders22@gmail.com
+54,Kakamega Town Merchants,Distributor,Kakamega,orders23@gmail.com
+55,Donholm Wholesalers,Distributor,Nairobi,orders24@gmail.com
+56,Murang'a Town Traders,Distributor,Murang'a,orders25@gmail.com
+57,Kilimani Traders,Distributor,Nairobi,orders26@gmail.com
+58,Nakuru Town Distributors,Distributor,Nakuru,orders27@gmail.com
+59,Gilgil Traders,Distributor,Nakuru,orders28@gmail.com
+60,Likoni Wholesalers,Distributor,Mombasa,orders29@gmail.com
+61,Naivasha Traders,Distributor,Nakuru,orders30@gmail.com
+62,Kondele Traders,Distributor,Kisumu,
+63,Kasarani Supplies,Distributor,Nairobi,
+64,Embakasi Merchants,Distributor,Nairobi,orders33@gmail.com
+65,Sagana Traders,Distributor,Kirinyaga,
+66,Kondele Supplies,Distributor,Kisumu,
+67,Ongata Rongai Supplies,Distributor,Kajiado,orders36@gmail.com
+68,Kilimani Supplies,Distributor,Nairobi,orders37@gmail.com
+69,Syokimau Wholesalers,Distributor,Machakos,orders38@gmail.com
+70,Donholm Traders,Distributor,Nairobi,
+71,Karatina Supplies,Distributor,Nyeri,orders40@gmail.com
+72,Bungoma Town Supplies,Distributor,Bungoma,
+73,Ngong Traders,Distributor,Kajiado,
+74,Kasarani Wholesalers,Distributor,Nairobi,orders43@gmail.com
+75,Litein Supplies,Distributor,Kericho,orders44@gmail.com
+76,Athi River Traders,Distributor,Machakos,orders45@gmail.com
+77,Kiambu Town Wholesalers,Distributor,Kiambu,orders46@gmail.com
+78,Donholm Traders,Distributor,Nairobi,orders47@gmail.com
+79,Embakasi Distributors,Distributor,Nairobi,
+80,Ongata Rongai Distributors,Distributor,Kajiado,ORDERS49@GMAIL.COM
+81,Athi River Merchants,Distributor,Machakos,orders50@gmail.com
+82,Likoni Supplies,Distributor,Mombasa,
+83,Syokimau Distributors,Distributor,Machakos,
+84,Likoni Merchants,Distributor,Mombasa,
+85,Embakasi Traders,Distributor,Nairobi,
+86,Langata Wholesalers,Distributor,Nairobi,
+87,Kasarani Distributors,Distributor,Nairobi,
+88,Ruaka Traders,Distributor,Nairobi,orders57@gmail.com
+89,Ogembo Supplies,Distributor,Kisii,orders58@gmail.com
+90,Gilgil Supplies,Distributor,Nakuru,orders59@gmail.com
+91,Sagana Traders,Distributor,Kirinyaga,orders60@gmail.com
+92,Kikuyu Traders,Distributor,Kiambu,orders61@gmail.com
+93,Kericho Town Traders,Distributor,Kericho,
+94,Langata Traders,Distributor,Nairobi,orders63@gmail.com
+95,Kenol Merchants,Distributor,Murang'a,orders64@gmail.com
+96,Mumias Traders,Distributor,Kakamega,orders65@gmail.com
+97,Kangema Supplies,Distributor,Murang'a,orders66@gmail.com
+98,Machakos Town Distributors,Distributor,Machakos,
+99,Ol Kalou Merchants,Distributor,Nyandarua,orders68@gmail.com
+100,Kangema Supplies,Distributor,Murang'a,
+101,Mtwapa Farmers Co-operative Society,Co-operative,Mombasa,
+102,Kondele Farmers Co-operative Society,Co-operative,Kisumu,
+103,Ogembo Agricultural Co-operative Society,Co-operative,Kisii,
+104,Juja Agricultural Co-operative Society,Co-operative,Kiambu,
+105,Ogembo Growers Co-operative Society,Co-operative,Kisii,coop4@yahoo.com
+106,Webuye Farmers Co-operative Society,Co-operative,Bungoma,coop5@yahoo.com
+107,Kikuyu Agricultural Co-operative Society,Co-operative,Kiambu,
+108,Mumias Dairy Co-operative Society,Co-operative,Kakamega,coop7@yahoo.com
+109,Kiambu Town Farmers Co-operative Society,Co-operative,Kiambu,coop8@yahoo.com
+110,Kasarani Growers Co-operative Society,Co-operative,Nairobi,COOP9@YAHOO.COM
+111,Nyeri Town Farmers Co-operative Society,Co-operative,Nyeri,coop10@yahoo.com
+112,Kilimani Agricultural Co-operative Society,Co-operative,Nairobi,
+113,Thika Dairy Co-operative Society,Co-operative,Kiambu,coop12@yahoo.com
+114,Mumias Growers Co-operative Society,Co-operative,Kakamega,coop13@yahoo.com
+115,Embu Town Growers Co-operative Society,Co-operative,Embu,coop14@yahoo.com
+116,Burnt Forest Farmers Co-operative Society,Co-operative,Uasin Gishu,coop15@yahoo.com
+117,Westlands Farmers Co-operative Society,Co-operative,Nairobi,
+118,Kilimani Agricultural Co-operative Society,Co-operative,Nairobi,coop17@yahoo.com
+119,Kondele Farmers Co-operative Society,Co-operative,Kisumu,
+120,Kisumu CBD Farmers Co-operative Society,Co-operative,Kisumu,coop19@yahoo.com
+121,Donholm Farmers Co-operative Society,Co-operative,Nairobi,coop20@yahoo.com
+122,Molo Horticulture Co-operative Society,Co-operative,Nakuru,coop21@yahoo.com
+123,Ruaka Dairy Co-operative Society,Co-operative,Nairobi,coop22@yahoo.com
+124,Nakuru Town Growers Co-operative Society,Co-operative,Nakuru,
+125,Mumias Horticulture Co-operative Society,Co-operative,Kakamega,coop24@yahoo.com
+126,Bamburi Agricultural Co-operative Society,Co-operative,Mombasa,
+127,Gilgil Dairy Co-operative Society,Co-operative,Nakuru,
+128,Kileleshwa Agricultural Co-operative Society,Co-operative,Nairobi,
+129,Westlands Horticulture Co-operative Society,Co-operative,Nairobi,coop28@yahoo.com
+130,Kasarani Farmers Co-operative Society,Co-operative,Nairobi,
+131,Nyeri Town Horticulture Co-operative Society,Co-operative,Nyeri,
+132,Bungoma Town Dairy Co-operative Society,Co-operative,Bungoma,coop31@yahoo.com
+133,Othaya Growers Co-operative Society,Co-operative,Nyeri,
+134,Ruiru Agricultural Co-operative Society,Co-operative,Kiambu,coop33@yahoo.com
+135,Nyali Agricultural Co-operative Society,Co-operative,Mombasa,
+136,Kakamega Town Farmers Co-operative Society,Co-operative,Kakamega,
+137,Milimani Dairy Co-operative Society,Co-operative,Kisumu,
+138,Kangema Farmers Co-operative Society,Co-operative,Murang'a,
+139,Syokimau Dairy Co-operative Society,Co-operative,Machakos,
+140,Nkubu Agricultural Co-operative Society,Co-operative,Meru,
+141,Kericho Town Farmers Co-operative Society,Co-operative,Kericho,coop40@yahoo.com
+142,Kikuyu Horticulture Co-operative Society,Co-operative,Kiambu,
+143,Ngong Dairy Co-operative Society,Co-operative,Kajiado,
+144,Litein Growers Co-operative Society,Co-operative,Kericho,
+145,Kenol Dairy Co-operative Society,Co-operative,Murang'a,coop44@yahoo.com
+146,Maua Farmers Co-operative Society,Co-operative,Meru,
+147,Athi River Horticulture Co-operative Society,Co-operative,Machakos,
+148,Milimani Horticulture Co-operative Society,Co-operative,Kisumu,
+149,Embakasi Dairy Co-operative Society,Co-operative,Nairobi,coop48@yahoo.com
+150,Ruaka Farmers Co-operative Society,Co-operative,Nairobi,coop49@yahoo.com
+151,Nyali Agricultural Co-operative Society,Co-operative,Mombasa,coop50@yahoo.com
+152,Mombasa CBD Agricultural Co-operative Society,Co-operative,Mombasa,coop51@yahoo.com
+153,Ruaka Horticulture Co-operative Society,Co-operative,Nairobi,
+154,Bamburi Horticulture Co-operative Society,Co-operative,Mombasa,coop53@yahoo.com
+155,Eldoret Dairy Co-operative Society,Co-operative,Uasin Gishu,coop54@yahoo.com
+156,Molo Farmers Co-operative Society,Co-operative,Nakuru,coop55@yahoo.com
+157,Kakamega Town Dairy Co-operative Society,Co-operative,Kakamega,
+158,Nakuru Town Agricultural Co-operative Society,Co-operative,Nakuru,coop57@yahoo.com
+159,Kenol Agricultural Co-operative Society,Co-operative,Murang'a,coop58@yahoo.com
+160,Machakos Town Growers Co-operative Society,Co-operative,Machakos,
+161,Langata Farmers Co-operative Society,Co-operative,Nairobi,
+162,Likoni Growers Co-operative Society,Co-operative,Mombasa,
+163,Mumias Farmers Co-operative Society,Co-operative,Kakamega,coop62@yahoo.com
+164,Kasarani Growers Co-operative Society,Co-operative,Nairobi,
+165,Othaya Farmers Co-operative Society,Co-operative,Nyeri,
+166,Kilimani Growers Co-operative Society,Co-operative,Nairobi,
+167,Litein Farmers Co-operative Society,Co-operative,Kericho,
+168,Milimani Horticulture Co-operative Society,Co-operative,Kisumu,coop67@yahoo.com
+169,Maua Dairy Co-operative Society,Co-operative,Meru,
+170,Burnt Forest Farmers Co-operative Society,Co-operative,Uasin Gishu,
+171,Thika Horticulture Co-operative Society,Co-operative,Kiambu,
+172,Gilgil Growers Co-operative Society,Co-operative,Nakuru,coop71@yahoo.com
+173,Kondele Growers Co-operative Society,Co-operative,Kisumu,coop72@yahoo.com
+174,Nyali Horticulture Co-operative Society,Co-operative,Mombasa,
+175,Syokimau Farmers Co-operative Society,Co-operative,Machakos,
+176,Runyenjes Dairy Co-operative Society,Co-operative,Embu,
+177,Webuye Horticulture Co-operative Society,Co-operative,Bungoma,coop76@yahoo.com
+178,Westlands Dairy Co-operative Society,Co-operative,Nairobi,
+179,Ruaka Agricultural Co-operative Society,Co-operative,Nairobi,coop78@yahoo.com
+180,Maua Growers Co-operative Society,Co-operative,Meru,coop79@yahoo.com
+181,Kericho Town Dairy Co-operative Society,Co-operative,Kericho,
+182,Juja Horticulture Co-operative Society,Co-operative,Kiambu,coop81@yahoo.com
+183,Gilgil Growers Co-operative Society,Co-operative,Nakuru,
+184,Kasarani Farmers Co-operative Society,Co-operative,Nairobi,COOP83@YAHOO.COM
+185,Kakamega Town Growers Co-operative Society,Co-operative,Kakamega,coop84@yahoo.com
+186,Kilimani Farmers Co-operative Society,Co-operative,Nairobi,
+187,Kikuyu Dairy Co-operative Society,Co-operative,Kiambu,
+188,Watamu Dairy Co-operative Society,Co-operative,Kilifi,coop87@yahoo.com
+189,Embu Town Agricultural Co-operative Society,Co-operative,Embu,
+190,Ruiru Dairy Co-operative Society,Co-operative,Kiambu,
+191,Ruiru Farmers Co-operative Society,Co-operative,Kiambu,
+192,Kilifi Town Agricultural Co-operative Society,Co-operative,Kilifi,
+193,Naivasha Growers Co-operative Society,Co-operative,Nakuru,
+194,Mtwapa Growers Co-operative Society,Co-operative,Mombasa,coop93@yahoo.com
+195,Kilimani Farmers Co-operative Society,Co-operative,Nairobi,coop94@yahoo.com
+196,Eldoret Dairy Co-operative Society,Co-operative,Uasin Gishu,coop95@yahoo.com
+197,Athi River Horticulture Co-operative Society,Co-operative,Machakos,coop96@yahoo.com
+198,Litein Growers Co-operative Society,Co-operative,Kericho,
+199,Kitengela Growers Co-operative Society,Co-operative,Kajiado,
+200,Embu Town Growers Co-operative Society,Co-operative,Embu,coop99@yahoo.com
+201,Kileleshwa Agricultural Co-operative Society,Co-operative,Nairobi,
+202,Nyeri Town Farmers Co-operative Society,Co-operative,Nyeri,
+203,Meru Town Farmers Co-operative Society,Co-operative,Meru,
+204,Kileleshwa Farmers Co-operative Society,Co-operative,Nairobi,
+205,Kileleshwa Growers Co-operative Society,Co-operative,Nairobi,coop104@yahoo.com
+206,Embu Town Dairy Co-operative Society,Co-operative,Embu,
+207,Kisumu CBD Agricultural Co-operative Society,Co-operative,Kisumu,
+208,Kakamega Town Agricultural Co-operative Society,Co-operative,Kakamega,
+209,Kondele Agricultural Co-operative Society,Co-operative,Kisumu,coop108@yahoo.com
+210,Ruiru Agricultural Co-operative Society,Co-operative,Kiambu,
+211,Bungoma Town Growers Co-operative Society,Co-operative,Bungoma,
+212,Kileleshwa Dairy Co-operative Society,Co-operative,Nairobi,
+213,Donholm Growers Co-operative Society,Co-operative,Nairobi,
+214,Embakasi Dairy Co-operative Society,Co-operative,Nairobi,coop113@yahoo.com
+215,Webuye Agricultural Co-operative Society,Co-operative,Bungoma,coop114@yahoo.com
+216,Syokimau Horticulture Co-operative Society,Co-operative,Machakos,
+217,Kasarani Farmers Co-operative Society,Co-operative,Nairobi,coop116@yahoo.com
+218,Langata Growers Co-operative Society,Co-operative,Nairobi,
+219,Langata Dairy Co-operative Society,Co-operative,Nairobi,COOP118@YAHOO.COM
+220,Naivasha Horticulture Co-operative Society,Co-operative,Nakuru,coop119@yahoo.com
+221,Kioko Muriuki Farm,Farmer,Kiambu,
+222,Kibet Odhiambo Farm,Farmer,Nyeri,
+223,Ruth Muriuki Farm,Farmer,Kirinyaga,
+224,Dennis Njoroge Farm,Farmer,Nakuru,
+225,Otieno Mohamed Farm,Farmer,Nairobi,
+226,Gitonga Onyango Farm,Farmer,Nyandarua,
+227,Lilian Cheruiyot Farm,Farmer,Nakuru,
+228,Achieng Muriuki Farm,Farmer,Uasin Gishu,
+229,Makena Muriuki Farm,Farmer,Nakuru,
+230,Auma Kariuki Farm,Farmer,Nairobi,
+231,Victor Nyaga Farm,Farmer,Laikipia,
+232,Karanja Simiyu Farm,Farmer,Laikipia,
+233,Baraka Kilonzo Farm,Farmer,Nyeri,
+234,Lilian Wanjala Farm,Farmer,Kisumu,
+235,Felix Onyango Farm,Farmer,Murang'a,farm234@gmail.com
+236,Auma Ndungu Farm,Farmer,Kajiado,
+237,Makena Kilonzo Farm,Farmer,Nairobi,
+238,Achieng Odhiambo Farm,Farmer,Kajiado,farm237@gmail.com
+239,Mutua Wambua Farm,Farmer,Kirinyaga,
+240,Muthoni Gitau Farm,Farmer,Laikipia,
+241,Kamau Mbugua Farm,Farmer,Nairobi,
+242,Baraka Ndungu Farm,Farmer,Kiambu,
+243,Mutiso Simiyu Farm,Farmer,Kisii,
+244,Ian Kamau Farm,Farmer,Kisumu,
+245,Achieng Murithi Farm,Farmer,Kiambu,
+246,Juma Simiyu Farm,Farmer,Nakuru,
+247,Mercy Kiprono Farm,Farmer,Kajiado,
+248,Kiprop Langat Farm,Farmer,Kakamega,farm247@gmail.com
+249,Faith Kirui Farm,Farmer,Nairobi,
+250,Faith Barasa Farm,Farmer,Mombasa,
+251,Kioko Nyaga Farm,Farmer,Kisumu,
+252,Moraa Ochieng Farm,Farmer,Uasin Gishu,
+253,Gitonga Musyoka Farm,Farmer,Nakuru,
+254,Wafula Kimani Farm,Farmer,Kisumu,
+255,Brian Nyaga Farm,Farmer,Meru,
+256,Kevin Kariuki Farm,Farmer,Kisumu,
+257,Kamau Nyaga Farm,Farmer,Kisii,farm256@gmail.com
+258,Njeri Omondi Farm,Farmer,Nairobi,farm257@gmail.com
+259,Sharon Odhiambo Farm,Farmer,Nairobi,
+260,Muthoni Langat Farm,Farmer,Nairobi,
+261,Kendi Chege Farm,Farmer,Kajiado,
+262,Felix Mwangi Farm,Farmer,Meru,
+263,Naliaka Barasa Farm,Farmer,Nakuru,
+264,Mutiso Otieno Farm,Farmer,Kisumu,
+265,Kevin Kiprono Farm,Farmer,Nairobi,farm264@gmail.com
+266,Mutua Rotich Farm,Farmer,Kajiado,
+267,Mumbua Kiplagat Farm,Farmer,Nairobi,
+268,Otieno Ochieng Farm,Farmer,Bungoma,
+269,Atieno Kariuki Farm,Farmer,Kisumu,
+270,Kamau Onyango Farm,Farmer,Kericho,
+271,Sharon Musyoka Farm,Farmer,Uasin Gishu,
+272,Allan Chege Farm,Farmer,Kajiado,
+273,Kioko Kilonzo Farm,Farmer,Kisii,farm272@gmail.com
+274,Nyambura Wambua Farm,Farmer,Nairobi,
+275,Esther Otieno Farm,Farmer,Nairobi,
+276,Mutiso Kiplagat Farm,Farmer,Embu,
+277,Abdi Odhiambo Farm,Farmer,Nairobi,
+278,Grace Kiplagat Farm,Farmer,Machakos,
+279,Mutiso Mbugua Farm,Farmer,Nyandarua,
+280,Allan Rotich Farm,Farmer,Nakuru,
+281,Nafula Omondi Farm,Farmer,Nairobi,
+282,Victor Nyongesa Farm,Farmer,Meru,
+283,Wafula Achieng Farm,Farmer,Mombasa,farm282@gmail.com
+284,Abdi Mutua Farm,Farmer,Bungoma,
+285,Njeri Kiprono Farm,Farmer,Nairobi,
+286,Kevin Odhiambo Farm,Farmer,Mombasa,
+287,Purity Oduor Farm,Farmer,Uasin Gishu,
+288,Atieno Rotich Farm,Farmer,Mombasa,
+289,Karanja Ochieng Farm,Farmer,Kericho,
+290,Chepkoech Murithi Farm,Farmer,Kiambu,
+291,Brian Njoroge Farm,Farmer,Meru,
+292,Wambui Murithi Farm,Farmer,Meru,
+293,Wairimu Kiplagat Farm,Farmer,Bungoma,
+294,Omondi Murithi Farm,Farmer,Kilifi,
+295,Nyambura Mohamed Farm,Farmer,Mombasa,
+296,Mercy Oduor Farm,Farmer,Mombasa,
+297,Hassan Ochieng Farm,Farmer,Bungoma,farm296@gmail.com
+298,Wafula Simiyu Farm,Farmer,Nairobi,
+299,Collins Otieno Farm,Farmer,Kajiado,
+300,Purity Wanjala Farm,Farmer,Kilifi,
+301,Chepkoech Mutua Farm,Farmer,Nairobi,
+302,Kibet Kirui Farm,Farmer,Mombasa,
+303,Ochieng Wanjala Farm,Farmer,Nairobi,
+304,Abdi Wambua Farm,Farmer,Kiambu,
+305,Atieno Omondi Farm,Farmer,Mombasa,
+306,Muthoni Langat Farm,Farmer,Nakuru,farm305@gmail.com
+307,Wafula Maina Farm,Farmer,Kericho,
+308,Sharon Achieng Farm,Farmer,Kisumu,
+309,Hassan Njoroge Farm,Farmer,Nairobi,
+310,Naliaka Rotich Farm,Farmer,Nyeri,
+311,Juma Otieno Farm,Farmer,Kiambu,
+312,Ian Kariuki Farm,Farmer,Nyeri,farm311@gmail.com
+313,Kamau Maina Farm,Farmer,Kilifi,
+314,Achieng Oduor Farm,Farmer,Machakos,farm313@gmail.com
+315,Mutua Ochieng Farm,Farmer,Nyeri,
+316,Gitonga Rotich Farm,Farmer,Kajiado,
+317,Njeri Kariuki Farm,Farmer,Nairobi,
+318,Mercy Odhiambo Farm,Farmer,Mombasa,
+319,Victor Ndungu Farm,Farmer,Nakuru,farm318@gmail.com
+320,Mumbua Simiyu Farm,Farmer,Kisii,
+321,Dennis Kirui Farm,Farmer,Nakuru,
+322,Baraka Kirui Farm,Farmer,Nairobi,
+323,Auma Ochieng Farm,Farmer,Nairobi,
+324,Halima Oduor Farm,Farmer,Nairobi,
+325,Kiprop Kiplagat Farm,Farmer,Kisumu,
+326,Kibet Nyaga Farm,Farmer,Kilifi,
+327,Allan Wambua Farm,Farmer,Kisumu,
+328,Halima Mohamed Farm,Farmer,Nairobi,
+329,Nyaboke Korir Farm,Farmer,Nairobi,
+330,Mumbua Wafula Farm,Farmer,Mombasa,
+331,Ruth Achieng Farm,Farmer,Nyandarua,
+332,Wambui Maina Farm,Farmer,Nairobi,
+333,Moraa Kirui Farm,Farmer,Nairobi,
+334,Gitonga Onyango Farm,Farmer,Kajiado,
+335,Dennis Gitau Farm,Farmer,Meru,farm334@gmail.com
+336,Wambui Kiplagat Farm,Farmer,Nairobi,
+337,Nyambura Gitau Farm,Farmer,Nakuru,
+338,Victor Kimani Farm,Farmer,Nairobi,farm337@gmail.com
+339,Halima Kirui Farm,Farmer,Nairobi,
+340,Kevin Omondi Farm,Farmer,Nairobi,
+341,Naliaka Nyongesa Farm,Farmer,Nakuru,
+342,Jepkemboi Nyaga Farm,Farmer,Kiambu,
+343,Ochieng Mwangi Farm,Farmer,Kisumu,
+344,Sharon Owino Farm,Farmer,Nairobi,
+345,Kiprop Kiprono Farm,Farmer,Nairobi,
+346,Victor Otieno Farm,Farmer,Nairobi,
+347,Gitonga Owino Farm,Farmer,Kiambu,
+348,Njeri Omondi Farm,Farmer,Mombasa,
+349,Achieng Kamau Farm,Farmer,Mombasa,
+350,Kevin Kamau Farm,Farmer,Machakos,
+351,Kibet Ochieng Farm,Farmer,Mombasa,
+352,Kibet Achieng Farm,Farmer,Machakos,
+353,Baraka Hassan Farm,Farmer,Uasin Gishu,
+354,Kendi Mbugua Farm,Farmer,Nakuru,
+355,Moraa Murithi Farm,Farmer,Kilifi,farm354@gmail.com
+356,Mercy Nyongesa Farm,Farmer,Nairobi,farm355@gmail.com
+357,Akinyi Oduor Farm,Farmer,Kiambu,
+358,Nafula Nyongesa Farm,Farmer,Kakamega,
+359,Njeri Onyango Farm,Farmer,Mombasa,farm358@gmail.com
+360,Nafula Kiplagat Farm,Farmer,Nakuru,
+361,Wekesa Mutua Farm,Farmer,Kisumu,
+362,Wekesa Ndungu Farm,Farmer,Nyandarua,farm361@gmail.com
+363,Purity Oduor Farm,Farmer,Nakuru,
+364,Nafula Otieno Farm,Farmer,Kajiado,
+365,Nafula Wanjala Farm,Farmer,Kiambu,
+366,Moraa Kirui Farm,Farmer,Mombasa,farm365@gmail.com
+367,Juma Otieno Farm,Farmer,Nyandarua,farm366@gmail.com
+368,Wanjiku Mwangi Farm,Farmer,Kiambu,
+369,Allan Maina Farm,Farmer,Mombasa,farm368@gmail.com
+370,Mumbua Korir Farm,Farmer,Kisumu,
+371,Mwangi Onyango Farm,Farmer,Kajiado,
+372,Kioko Mutua Farm,Farmer,Kajiado,farm371@gmail.com
+373,Baraka Musyoka Farm,Farmer,Mombasa,FARM372@GMAIL.COM
+374,Amina Murithi Farm,Farmer,Bungoma,
+375,Ian Otieno Farm,Farmer,Uasin Gishu,
+376,Ian Ochieng Farm,Farmer,Nairobi,farm375@gmail.com
+377,Mercy Musyoka Farm,Farmer,Kajiado,
+378,Zawadi Wanjala Farm,Farmer,Embu,
+379,Abdi Murithi Farm,Farmer,Uasin Gishu,
+380,Omondi Mbugua Farm,Farmer,Kajiado,
+381,Victor Mohamed Farm,Farmer,Machakos,
+382,Karanja Maina Farm,Farmer,Kisumu,
+383,Imani Omondi Farm,Farmer,Nairobi,
+384,Otieno Onyango Farm,Farmer,Nairobi,
+385,Victor Achieng Farm,Farmer,Kisii,
+386,Njeri Nyaga Farm,Farmer,Uasin Gishu,
+387,Baraka Otieno Farm,Farmer,Mombasa,
+388,Mercy Kirui Farm,Farmer,Nairobi,
+389,Ruth Murithi Farm,Farmer,Embu,
+390,Wairimu Achieng Farm,Farmer,Kakamega,
+391,Mutiso Kiplagat Farm,Farmer,Nakuru,
+392,Chebet Ndungu Farm,Farmer,Meru,
+393,Mutiso Mohamed Farm,Farmer,Uasin Gishu,
+394,Halima Wambua Farm,Farmer,Mombasa,
+395,Hassan Korir Farm,Farmer,Nairobi,
+396,Mumbua Langat Farm,Farmer,Nairobi,
+397,Mutiso Langat Farm,Farmer,Bungoma,farm396@gmail.com
+398,Kevin Musyoka Farm,Farmer,Murang'a,
+399,Nyambura Gitau Farm,Farmer,Laikipia,
+400,Lilian Kamau Farm,Farmer,Kilifi,farm399@gmail.com
+401,Lilian Owino Farm,Farmer,Kericho,
+402,Wanjiku Mohamed Farm,Farmer,Embu,
+403,Nafula Kirui Farm,Farmer,Nairobi,
+404,Dennis Kiprono Farm,Farmer,Nairobi,
+405,Wairimu Mutua Farm,Farmer,Nairobi,
+406,Amina Kilonzo Farm,Farmer,Nairobi,
+407,Halima Kirui Farm,Farmer,Machakos,
+408,Auma Hassan Farm,Farmer,Nairobi,
+409,Njeri Wafula Farm,Farmer,Embu,
+410,Lilian Mbugua Farm,Farmer,Nakuru,
+411,Abdi Oduor Farm,Farmer,Kisii,
+412,Faith Mwangi Farm,Farmer,Mombasa,
+413,Baraka Kamau Farm,Farmer,Uasin Gishu,
+414,Abdi Nyongesa Farm,Farmer,Kisii,
+415,Hassan Onyango Farm,Farmer,Nakuru,
+416,Wanjiku Achieng Farm,Farmer,Mombasa,farm415@gmail.com
+417,Hassan Cheruiyot Farm,Farmer,Nairobi,
+418,Juma Omondi Farm,Farmer,Nairobi,
+419,Dennis Mutua Farm,Farmer,Nairobi,
+420,Grace Murithi Farm,Farmer,Kakamega,
+421,Purity Ndungu Farm,Farmer,Kiambu,farm420@gmail.com
+422,Amina Musyoka Farm,Farmer,Mombasa,
+423,Kiprop Langat Farm,Farmer,Nakuru,
+424,Kevin Oduor Farm,Farmer,Kiambu,
+425,Kendi Otieno Farm,Farmer,Kisumu,
+426,Omondi Mutua Farm,Farmer,Nairobi,
+427,Makena Wafula Farm,Farmer,Nairobi,
+428,Wambui Korir Farm,Farmer,Kiambu,
+429,Akinyi Kirui Farm,Farmer,Machakos,
+430,Mwangi Owino Farm,Farmer,Uasin Gishu,
+431,Wambui Wanjala Farm,Farmer,Mombasa,
+432,Nafula Oduor Farm,Farmer,Kakamega,
+433,Wambui Hassan Farm,Farmer,Nyeri,farm432@gmail.com
+434,Ian Kamau Farm,Farmer,Nakuru,
+435,Muthoni Kariuki Farm,Farmer,Mombasa,
+436,Imani Kimani Farm,Farmer,Nairobi,
+437,Kibet Murithi Farm,Farmer,Machakos,
+438,Wanjiku Simiyu Farm,Farmer,Laikipia,
+439,Imani Achieng Farm,Farmer,Nairobi,
+440,Mutua Owino Farm,Farmer,Kiambu,
+441,Mutua Omondi Farm,Farmer,Nyeri,
+442,Chebet Barasa Farm,Farmer,Nairobi,farm441@gmail.com
+443,Purity Cheruiyot Farm,Farmer,Kajiado,
+444,Naliaka Ali Farm,Farmer,Nairobi,
+445,Juma Wafula Farm,Farmer,Kakamega,
+446,Nafula Mohamed Farm,Farmer,Kajiado,
+447,Ian Njoroge Farm,Farmer,Meru,
+448,Kamau Langat Farm,Farmer,Kisii,farm447@gmail.com
+449,Wafula Langat Farm,Farmer,Kisii,
+450,Otieno Ndungu Farm,Farmer,Nakuru,farm449@gmail.com
+451,Nafula Barasa Farm,Farmer,Kajiado,
+452,Zawadi Kariuki Farm,Farmer,Mombasa,farm451@gmail.com
+453,Zawadi Kiplagat Farm,Farmer,Kisumu,
+454,Collins Njoroge Farm,Farmer,Nairobi,
+455,Victor Otieno Farm,Farmer,Nairobi,
+456,Collins Mbugua Farm,Farmer,Kiambu,
+457,Nafula Ndungu Farm,Farmer,Kajiado,
+458,Allan Kiplagat Farm,Farmer,Mombasa,
+459,Achieng Langat Farm,Farmer,Kisumu,
+460,Ochieng Onyango Farm,Farmer,Kajiado,
+461,Collins Nyongesa Farm,Farmer,Nakuru,farm460@gmail.com
+462,Hassan Rotich Farm,Farmer,Kisumu,farm461@gmail.com
+463,Wekesa Wafula Farm,Farmer,Machakos,farm462@gmail.com
+464,Karanja Korir Farm,Farmer,Mombasa,
+465,Mumbua Oduor Farm,Farmer,Mombasa,
+466,Juma Otieno Farm,Farmer,Kakamega,
+467,Mutiso Mohamed Farm,Farmer,Kiambu,
+468,Dennis Mbugua Farm,Farmer,Uasin Gishu,
+469,Lilian Simiyu Farm,Farmer,Kiambu,
+470,Nyaboke Barasa Farm,Farmer,Kilifi,
+471,Wairimu Wambua Farm,Farmer,Uasin Gishu,
+472,Purity Wafula Farm,Farmer,Nakuru,
+473,Faith Njoroge Farm,Farmer,Nairobi,
+474,Collins Kilonzo Farm,Farmer,Kakamega,
+475,Mutiso Otieno Farm,Farmer,Nakuru,farm474@gmail.com
+476,Achieng Chege Farm,Farmer,Nairobi,
+477,Wairimu Oduor Farm,Farmer,Nairobi,farm476@gmail.com
+478,Allan Kiplagat Farm,Farmer,Kiambu,
+479,Mutua Mwangi Farm,Farmer,Kiambu,
+480,Lilian Gitau Farm,Farmer,Mombasa,
+481,Wanjiku Maina Farm,Farmer,Nyeri,
+482,Mutua Njoroge Farm,Farmer,Nairobi,farm481@gmail.com
+483,Gitonga Nyongesa Farm,Farmer,Kisii,
+484,Auma Wanjala Farm,Farmer,Nairobi,
+485,Chebet Kilonzo Farm,Farmer,Kericho,farm484@gmail.com
+486,Karanja Kamau Farm,Farmer,Meru,
+487,Kiprop Wafula Farm,Farmer,Kisumu,farm486@gmail.com
+488,Wambui Wambua Farm,Farmer,Nyeri,
+489,Kibet Owino Farm,Farmer,Bungoma,farm488@gmail.com
+490,Lilian Kimani Farm,Farmer,Kilifi,
+491,Mutiso Musyoka Farm,Farmer,Mombasa,farm490@gmail.com
+492,Kendi Kiplagat Farm,Farmer,Nairobi,
+493,Nyambura Gitau Farm,Farmer,Mombasa,
+494,Hassan Kilonzo Farm,Farmer,Nairobi,
+495,Lilian Rotich Farm,Farmer,Kiambu,
+496,Muthoni Korir Farm,Farmer,Murang'a,
+497,Omondi Wafula Farm,Farmer,Kiambu,farm496@gmail.com
+498,Achieng Achieng Farm,Farmer,Nairobi,
+499,Karanja Onyango Farm,Farmer,Mombasa,
+500,Imani Omondi Farm,Farmer,Nakuru,
+501,Nyambura Otieno Farm,Farmer,Mombasa,
+502,Sharon Mbugua Farm,Farmer,Meru,
+503,Esther Maina Farm,Farmer,Nairobi,
+504,Mercy Simiyu Farm,Farmer,Murang'a,
+505,Naliaka Omondi Farm,Farmer,Nairobi,farm504@gmail.com
+506,Otieno Wambua Farm,Farmer,Nairobi,
+507,Makena Langat Farm,Farmer,Nakuru,
+508,Jepkemboi Langat Farm,Farmer,Nakuru,farm507@gmail.com
+509,Allan Achieng Farm,Farmer,Machakos,
+510,Mercy Wafula Farm,Farmer,Nakuru,
+511,Mumbua Muriuki Farm,Farmer,Mombasa,
+512,Chebet Mutua Farm,Farmer,Kisii,
+513,Hassan Gitau Farm,Farmer,Kisii,
+514,Mutiso Njoroge Farm,Farmer,Kilifi,
+515,Mutua Kariuki Farm,Farmer,Machakos,farm514@gmail.com
+516,Nyaboke Omondi Farm,Farmer,Laikipia,
+517,Chepkoech Kamau Farm,Farmer,Kakamega,
+518,Achieng Mutua Farm,Farmer,Nairobi,
+519,Karanja Langat Farm,Farmer,Machakos,farm518@gmail.com
+520,Kioko Odhiambo Farm,Farmer,Nairobi,

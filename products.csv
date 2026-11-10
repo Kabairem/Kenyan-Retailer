@@ -1,0 +1,622 @@
+product_id,product_name,category,supplier_id,unit_price,cost_price,is_active
+1,Jua Fresh Milk 500ml,Dairy,74,71,44,true
+2,Jua Fresh Milk 1L,,4,110,78,true
+3,Neema Fresh Milk 500ml,Dairy,7,66,44,true
+4,Neema Fresh Milk 1L,Dairy,34,134,98,true
+5,Nyota Fresh Milk 500ml,Dairy,10,74,48,true
+6,Nyota Fresh Milk 1L,Dairy,132,134,108,true
+7,Simba Bora Fresh Milk 500ml,Dairy,120,61,46,true
+8,Simba Bora Fresh Milk 1L,Dairy,150,137,86,true
+9,Upendo Fresh Milk 500ml,Dairy,165,73,47,true
+10,Upendo Fresh Milk 1L,Dairy,119,124,81,true
+11,Kifaru Fresh Milk 500ml,Dairy,76,72,45,true
+12,Kifaru Fresh Milk 1L,Dairy,107,133,86,true
+13,Kilele Fresh Milk 500ml,Dairy,81,70,44,true
+14,Kilele Fresh Milk 1L,Dairy,179,137,87,true
+15,Simba Bora Long Life Milk 500ml,Dairy,9,80,62,true
+16,Simba Bora Long Life Milk 1L,Dairy,9,155,121,true
+17,Mlima Long Life Milk 500ml,Dairy,165,80,52,true
+18,Mlima Long Life Milk 1L,Dairy,2,138,95,true
+19,Jua Long Life Milk 500ml,Dairy,152,78,51,true
+20,Jua Long Life Milk 1L,Dairy,4,154,121,true
+21,Pwani Pride Long Life Milk 500ml,Dairy,6,83,65,true
+22,Pwani Pride Long Life Milk 1L,Dairy,6,148,104,true
+23,Nyota Long Life Milk 500ml,Dairy,10,74,51,true
+24,Nyota Long Life Milk 1L,Dairy,97,150,115,true
+25,Neema Long Life Milk 500ml,Dairy,117,82,58,true
+26,Neema Long Life Milk 1L,Dairy,47,130,86,true
+27,Shamba Gold Long Life Milk 500ml,Dairy,147,80,63,false
+28,Shamba Gold Long Life Milk 1L,Dairy,1,142,113,true
+29,Nyota Mala 500ml,Dairy,10,73,57,true
+30,Mlima Mala 500ml,Dairy,2,80,54,true
+31,Pwani Pride Mala 500ml,Dairy,6,76,52,true
+32,Tamu Tamu Mala 500ml,Dairy,8,84,57,true
+33,Shamba Gold Mala 500ml,Dairy,1,76,57,true
+34,Neema Mala 500ml,Dairy,7,85,67,true
+35,Tausi Mala 500ml,Dairy,3,83,57,true
+36,Neema Yoghurt Vanilla 250ml,Dairy,7,102,82,true
+37,Neema Yoghurt Vanilla 500ml,Dairy,34,173,133,true
+38,Tausi Yoghurt Vanilla 250ml,Dairy,3,95,65,true
+39,Tausi Yoghurt Vanilla 500ml,Dairy,3,166,128,true
+40,Jua Yoghurt Vanilla 250ml,Dairy,134,85,68,true
+41,Jua Yoghurt Vanilla 500ml,Dairy,4,195,156,true
+42,Mlima Yoghurt Vanilla 250ml,Dairy,2,96,110,true
+43,Mlima Yoghurt Vanilla 500ml,Dairy,2,187,151,true
+44,Nyota Yoghurt Vanilla 250ml,Dairy,35,95,73,true
+45,Nyota Yoghurt Vanilla 500ml,Dairy,10,184,115,true
+46,Upendo Yoghurt Vanilla 250ml,Dairy,159,97,79,true
+47,Upendo Yoghurt Vanilla 500ml,Dairy,111,191,134,true
+48,Simba Bora Yoghurt Vanilla 250ml,Dairy,9,103,75,true
+49,Simba Bora Yoghurt Vanilla 500ml,Dairy,9,174,113,true
+50,Kilele Yoghurt Strawberry 250ml,Dairy,110,92,57,true
+51,Pwani Pride Yoghurt Strawberry 250ml,Dairy,6,86,58,true
+52,Jua Yoghurt Strawberry 250ml,Dairy,167,83,61,true
+53,Nyota Yoghurt Strawberry 250ml,Dairy,211,103,73,true
+54,Simba Bora Yoghurt Strawberry 250ml,Dairy,9,92,58,true
+55,Simba Bora Butter 250g,Dairy,139,318,205,true
+56,Simba Bora Butter 500g,Dairy,102,725,467,true
+57,Kifaru Butter 250g,Dairy,180,297,240,true
+58,Kifaru Butter 500g,Dairy,5,598,413,true
+59,Jua Butter 250g,Dairy,202,340,269,true
+60,Jua Butter 500g,Dairy,183,625,478,true
+61,Tamu Tamu Butter 250g,Dairy,8,325,213,true
+62,Tamu Tamu Butter 500g,Dairy,8,638,503,true
+63,Pwani Pride Butter 250g,Dairy,120,361,265,true
+64,Pwani Pride Butter 500g,Dairy,65,726,533,true
+65,Kilele Butter 250g,Dairy,187,316,257,true
+66,Kilele Butter 500g,Dairy,106,689,485,true
+67,Shamba Gold Butter 250g,Dairy,86,315,204,true
+68,Shamba Gold Butter 500g,Dairy,1,695,522,true
+69,Upendo Cheddar Cheese 200g,Dairy,215,552,377,true
+70,Nyota Cheddar Cheese 200g,Dairy,175,548,370,true
+71,Mlima Cheddar Cheese 200g,Dairy,2,584,421,true
+72,Jua Cheddar Cheese 200g,Dairy,41,560,437,true
+73,Neema Cheddar Cheese 200g,Dairy,38,576,384,true
+74,Tausi Cheddar Cheese 200g,Dairy,134,557,379,true
+75,Shamba Gold Cheddar Cheese 200g,Dairy,182,581,410,true
+76,Kifaru Ghee 500g,Dairy,111,637,465,true
+77,Jua Ghee 500g,Dairy,49,638,473,true
+78,Shamba Gold Ghee 500g,Dairy,1,770,518,true
+79,Kilele Ghee 500g,Dairy,109,652,436,true
+80,Simba Bora Ghee 500g,Dairy,189,715,527,true
+81,Neema Ghee 500g,Dairy,7,653,458,true
+82,Kilele Cooking Oil 1L,Cooking Essentials,12,391,255,true
+83,Kilele Cooking Oil 3L,Cooking Essentials,12,1111,730,true
+84,Kilele Cooking Oil 5L,Cooking Essentials,12,1634,1280,true
+85,Upendo Cooking Oil 1L,Cooking Essentials,11,348,234,true
+86,Upendo Cooking Oil 3L,Cooking Essentials,11,1062,756,true
+87,Upendo Cooking Oil 5L,Cooking Essentials,11,1747,1097,true
+88,Pwani Pride Cooking Oil 1L,Cooking Essentials,41,338,236,true
+89,Pwani Pride Cooking Oil 3L,Cooking Essentials,6,1016,720,true
+90,Pwani Pride Cooking Oil 5L,Cooking Essentials,6,1484,1096,true
+91,Simba Bora Cooking Oil 1L,Cooking Essentials,9,371,271,true
+92,Simba Bora Cooking Oil 3L,Cooking Essentials,9,1051,814,true
+93,Simba Bora Cooking Oil 5L,Cooking Essentials,85,1782,1376,true
+94,Tamu Tamu Cooking Oil 1L,Cooking Essentials,8,316,239,true
+95,Tamu Tamu Cooking Oil 3L,Cooking Essentials,8,1086,677,true
+96,Tamu Tamu Cooking Oil 5L,Cooking Essentials,43,1743,1228,false
+97,Neema Sugar 1kg,Cooking Essentials,7,170,112,true
+98,Neema Sugar 2kg,Cooking Essentials,7,348,245,true
+99,Jua Sugar 1kg,Cooking Essentials,97,185,145,true
+100,Jua Sugar 2kg,Cooking Essentials,4,371,301,true
+101,Kilele Sugar 1kg,Cooking Essentials,92,165,104,false
+102,Kilele Sugar 2kg,Cooking Essentials,12,371,247,true
+103,Shamba Gold Sugar 1kg,Cooking Essentials,1,201,134,true
+104,Shamba Gold Sugar 2kg,Cooking Essentials,84,332,249,true
+105,Upendo Sugar 1kg,Cooking Essentials,11,175,129,true
+106,Upendo Sugar 2kg,Cooking Essentials,11,378,241,true
+107,Nyota Sugar 1kg,Cooking Essentials,10,181,121,true
+108,Nyota Sugar 2kg,Cooking Essentials,10,348,242,true
+109,Kifaru Sugar 1kg,Cooking Essentials,63,180,128,true
+110,Kifaru Sugar 2kg,Cooking Essentials,5,347,254,true
+111,Kifaru Salt 1kg,Cooking Essentials,5,46,32,true
+112,Tamu Tamu Salt 1kg,Cooking Essentials,8,46,37,true
+113,Nyota Salt 1kg,Cooking Essentials,10,43,29,true
+114,Pwani Pride Salt 1kg,Cooking Essentials,41,41,28,true
+115,Jua Salt 1kg,Cooking Essentials,4,44,28,true
+116,Tamu Tamu Rice Pishori 2kg,Cooking Essentials,8,391,278,true
+117,Tamu Tamu Rice Pishori 5kg,Cooking Essentials,8,940,619,true
+118,Upendo Rice Pishori 2kg,Cooking Essentials,11,463,371,true
+119,Upendo Rice Pishori 5kg,Cooking Essentials,11,963,746,true
+120,Kilele Rice Pishori 2kg,Cooking Essentials,12,421,267,true
+121,Kilele Rice Pishori 5kg,Cooking Essentials,12,981,618,true
+122,Kifaru Rice Pishori 2kg,Cooking Essentials,5,399,273,true
+123,Kifaru Rice Pishori 5kg,Cooking Essentials,5,947,649,true
+124,Shamba Gold Rice Pishori 2kg,Cooking Essentials,1,408,330,true
+125,Shamba Gold Rice Pishori 5kg,Cooking Essentials,58,1048,768,true
+126,Neema Mchuzi Mix 75g,Cooking Essentials,7,64,42,true
+127,Simba Bora Mchuzi Mix 75g,Cooking Essentials,9,54,42,true
+128,Nyota Mchuzi Mix 75g,Cooking Essentials,40,63,49,true
+129,Jua Mchuzi Mix 75g,Cooking Essentials,90,66,46,true
+130,Shamba Gold Mchuzi Mix 75g,Cooking Essentials,1,63,49,true
+131,Kifaru Mchuzi Mix 75g,Cooking Essentials,42,60,47,true
+132,Upendo Mchuzi Mix 75g,Cooking Essentials,11,59,41,true
+133,Kilele Pilau Masala 100g,Cooking Essentials,12,112,72,true
+134,Kifaru Pilau Masala 100g,Cooking Essentials,5,118,78,true
+135,Upendo Pilau Masala 100g,Cooking Essentials,11,130,82,true
+136,Shamba Gold Pilau Masala 100g,Cooking Essentials,94,133,89,true
+137,Neema Pilau Masala 100g,Cooking Essentials,65,117,94,true
+138,Simba Bora Tomato Paste 400g,Cooking Essentials,9,144,111,true
+139,Tamu Tamu Tomato Paste 400g,Cooking Essentials,8,151,98,true
+140,Upendo Tomato Paste 400g,Cooking Essentials,100,157,117,true
+141,Jua Tomato Paste 400g,Cooking Essentials,4,149,115,true
+142,Kifaru Tomato Paste 400g,Cooking Essentials,5,160,117,true
+143,Simba Bora Honey 500g,Cooking Essentials,80,834,666,true
+144,Mlima Honey 500g,Cooking Essentials,2,698,520,true
+145,Kilele Honey 500g,Cooking Essentials,12,770,538,true
+146,Tausi Honey 500g,Cooking Essentials,3,679,460,true
+147,Upendo Honey 500g,Cooking Essentials,11,752,501,true
+148,Jua Honey 500g,Cooking Essentials,47,763,498,true
+149,Neema Maize Flour 2kg,Cereals & Grains,7,195,139,true
+150,Simba Bora Maize Flour 2kg,Cereals & Grains,54,182,119,true
+151,Pwani Pride Maize Flour 2kg,Cereals & Grains,6,214,166,true
+152,Tamu Tamu Maize Flour 2kg,Cereals & Grains,35,205,163,true
+153,Mlima Maize Flour 2kg,Cereals & Grains,2,205,152,true
+154,Mlima Wheat Flour 2kg,Cereals & Grains,2,236,192,true
+155,Jua Wheat Flour 2kg,Cereals & Grains,83,197,138,true
+156,Simba Bora Wheat Flour 2kg,Cereals & Grains,9,212,139,true
+157,Tausi Wheat Flour 2kg,Cereals & Grains,34,224,164,true
+158,Nyota Wheat Flour 2kg,Cereals & Grains,61,213,150,true
+159,Kilele Wheat Flour 2kg,Cereals & Grains,12,208,158,true
+160,Jua Millet Flour 1kg,Cereals & Grains,4,174,110,true
+161,Shamba Gold Millet Flour 1kg,Cereals & Grains,1,204,136,true
+162,Tamu Tamu Millet Flour 1kg,Cereals & Grains,94,166,110,true
+163,Kilele Millet Flour 1kg,Cereals & Grains,12,201,133,true
+164,Upendo Millet Flour 1kg,Cereals & Grains,80,192,119,true
+165,Mlima Porridge Mix 1kg,Cereals & Grains,2,207,166,true
+166,Shamba Gold Porridge Mix 1kg,Cereals & Grains,51,213,161,true
+167,Nyota Porridge Mix 1kg,Cereals & Grains,10,224,178,true
+168,Upendo Porridge Mix 1kg,Cereals & Grains,11,220,179,true
+169,Kifaru Porridge Mix 1kg,Cereals & Grains,5,226,142,true
+170,Pwani Pride Oats 500g,Cereals & Grains,80,297,203,true
+171,Shamba Gold Oats 500g,Cereals & Grains,1,319,222,true
+172,Kifaru Oats 500g,Cereals & Grains,5,281,177,true
+173,Nyota Oats 500g,Cereals & Grains,97,263,215,true
+174,Upendo Oats 500g,Cereals & Grains,68,290,213,true
+175,Neema Oats 500g,Cereals & Grains,7,274,181,true
+176,Kifaru Green Grams 1kg,Cereals & Grains,5,270,178,true
+177,Simba Bora Green Grams 1kg,Cereals & Grains,9,297,222,true
+178,Tamu Tamu Green Grams 1kg,Cereals & Grains,73,247,178,true
+179,Upendo Green Grams 1kg,Cereals & Grains,54,248,186,true
+180,Nyota Green Grams 1kg,Cereals & Grains,90,286,214,true
+181,Simba Bora Beans Rosecoco 1kg,Cereals & Grains,9,213,141,true
+182,Jua Beans Rosecoco 1kg,Cereals & Grains,4,204,154,true
+183,Pwani Pride Beans Rosecoco 1kg,Cereals & Grains,56,210,154,true
+184,Kifaru Beans Rosecoco 1kg,Cereals & Grains,5,223,182,true
+185,Nyota Beans Rosecoco 1kg,Cereals & Grains,10,222,172,true
+186,Tausi Beans Rosecoco 1kg,Cereals & Grains,3,201,125,true
+187,Neema Biscuits 100g,Snacks & Confectionery,67,63,47,true
+188,Neema Biscuits 500g,Snacks & Confectionery,7,242,156,true
+189,Jua Biscuits 100g,Snacks & Confectionery,31,61,38,true
+190,Jua Biscuits 500g,Snacks & Confectionery,4,232,155,true
+191,Mlima Biscuits 100g,Snacks & Confectionery,2,50,36,true
+192,Mlima Biscuits 500g,Snacks & Confectionery,2,271,214,true
+193,Kifaru Biscuits 100g,Snacks & Confectionery,5,55,38,true
+194,Kifaru Biscuits 500g,Snacks & Confectionery,46,245,185,true
+195,Tausi Biscuits 100g,Snacks & Confectionery,3,58,46,true
+196,Tausi Biscuits 500g,Snacks & Confectionery,65,239,176,true
+197,Upendo Biscuits 100g,Snacks & Confectionery,11,63,42,true
+198,Upendo Biscuits 500g,Snacks & Confectionery,11,247,168,true
+199,Pwani Pride Chocolate Bar 80g,Snacks & Confectionery,6,138,107,true
+200,Mlima Chocolate Bar 80g,Snacks & Confectionery,2,142,100,true
+201,Shamba Gold Chocolate Bar 80g,Snacks & Confectionery,87,138,112,true
+202,Neema Chocolate Bar 80g,Snacks & Confectionery,7,146,109,true
+203,Tausi Chocolate Bar 80g,Snacks & Confectionery,3,143,109,true
+204,Kifaru Crisps 150g,Snacks & Confectionery,93,202,145,true
+205,Jua Crisps 150g,Snacks & Confectionery,4,168,126,true
+206,Tamu Tamu Crisps 150g,Snacks & Confectionery,91,178,126,true
+207,Kilele Crisps 150g,Snacks & Confectionery,99,195,156,true
+208,Tausi Crisps 150g,Snacks & Confectionery,3,179,135,true
+209,Shamba Gold Crisps 150g,Snacks & Confectionery,1,188,145,true
+210,Upendo Crisps 150g,Snacks & Confectionery,11,197,136,true
+211,Tamu Tamu Roasted Peanuts 200g,Snacks & Confectionery,8,128,92,true
+212,Mlima Roasted Peanuts 200g,Snacks & Confectionery,2,150,96,true
+213,Simba Bora Roasted Peanuts 200g,Snacks & Confectionery,50,143,91,true
+214,Upendo Roasted Peanuts 200g,Snacks & Confectionery,11,131,99,true
+215,Pwani Pride Roasted Peanuts 200g,Snacks & Confectionery,6,132,91,true
+216,Kilele Sweets Jar 1kg,Snacks & Confectionery,12,474,295,true
+217,Kifaru Sweets Jar 1kg,Snacks & Confectionery,5,450,313,true
+218,Nyota Sweets Jar 1kg,Snacks & Confectionery,10,464,329,true
+219,Pwani Pride Sweets Jar 1kg,Snacks & Confectionery,58,453,360,true
+220,Jua Sweets Jar 1kg,Snacks & Confectionery,4,460,291,true
+221,Upendo Sweets Jar 1kg,Snacks & Confectionery,11,473,364,true
+222,Nyota Black Tea 100 bags,Beverages,10,260,198,true
+223,Nyota Black Tea 500g,Beverages,10,415,289,true
+224,Kifaru Black Tea 100 bags,Beverages,5,274,221,true
+225,Kifaru Black Tea 500g,Beverages,77,463,355,true
+226,Shamba Gold Black Tea 100 bags,Beverages,1,268,213,true
+227,Shamba Gold Black Tea 500g,Beverages,69,414,321,true
+228,Upendo Black Tea 100 bags,Beverages,11,270,194,true
+229,Upendo Black Tea 500g,Beverages,11,462,371,true
+230,Mlima Black Tea 100 bags,Beverages,72,257,199,true
+231,Mlima Black Tea 500g,Beverages,2,470,339,true
+232,Pwani Pride Instant Coffee 100g,Beverages,6,488,313,true
+233,Shamba Gold Instant Coffee 100g,Beverages,73,575,366,true
+234,Upendo Instant Coffee 100g,Beverages,11,516,403,true
+235,Kilele Instant Coffee 100g,Beverages,12,534,399,true
+236,Nyota Instant Coffee 100g,Beverages,10,525,340,true
+237,Jua Instant Coffee 100g,Beverages,81,484,319,true
+238,Mlima Instant Coffee 100g,Beverages,2,583,378,true
+239,Jua Soda 500ml,Beverages,4,77,57,true
+240,Jua Soda 2L,Beverages,4,195,139,true
+241,Kifaru Soda 500ml,Beverages,79,67,50,true
+242,Kifaru Soda 2L,Beverages,5,220,154,true
+243,Kilele Soda 500ml,Beverages,35,70,47,true
+244,Kilele Soda 2L,Beverages,12,215,142,true
+245,Pwani Pride Soda 500ml,Beverages,6,80,60,true
+246,Pwani Pride Soda 2L,Beverages,6,227,144,true
+247,Neema Soda 500ml,Beverages,7,72,50,true
+248,Neema Soda 2L,Beverages,97,210,141,true
+249,Nyota Soda 500ml,Beverages,52,64,41,true
+250,Nyota Soda 2L,Beverages,35,205,159,true
+251,Kifaru Mineral Water 1L,Beverages,5,91,57,true
+252,Kifaru Mineral Water 5L,Beverages,5,293,195,true
+253,Jua Mineral Water 1L,Beverages,4,87,57,true
+254,Jua Mineral Water 5L,Beverages,4,249,166,true
+255,Pwani Pride Mineral Water 1L,Beverages,6,73,55,true
+256,Pwani Pride Mineral Water 5L,Beverages,6,271,198,true
+257,Shamba Gold Mineral Water 1L,Beverages,33,89,66,true
+258,Shamba Gold Mineral Water 5L,Beverages,1,235,151,true
+259,Tausi Mineral Water 1L,Beverages,55,78,55,true
+260,Tausi Mineral Water 5L,Beverages,3,292,232,true
+261,Mlima Mango Juice 1L,Beverages,2,196,129,true
+262,Kilele Mango Juice 1L,Beverages,12,210,161,true
+263,Tamu Tamu Mango Juice 1L,Beverages,55,210,168,true
+264,Nyota Mango Juice 1L,Beverages,54,238,173,true
+265,Jua Mango Juice 1L,Beverages,4,201,158,true
+266,Shamba Gold Mango Juice 1L,Beverages,1,195,147,true
+267,Tausi Mango Juice 1L,Beverages,3,229,154,true
+268,Tausi Energy Drink 330ml,Beverages,3,143,117,true
+269,Shamba Gold Energy Drink 330ml,Beverages,1,158,119,true
+270,Kifaru Energy Drink 330ml,Beverages,5,135,88,true
+271,Simba Bora Energy Drink 330ml,Beverages,9,141,89,true
+272,Jua Energy Drink 330ml,Beverages,4,139,93,false
+273,Kilele Energy Drink 330ml,Beverages,12,136,96,true
+274,Pwani Pride Energy Drink 330ml,Beverages,6,154,100,true
+275,Simba Bora Bar Soap 1kg,Household,9,282,219,true
+276,Tamu Tamu Bar Soap 1kg,Household,8,265,184,true
+277,Upendo Bar Soap 1kg,Household,11,319,216,true
+278,Kifaru Bar Soap 1kg,Household,52,287,225,true
+279,Shamba Gold Bar Soap 1kg,Household,1,263,167,true
+280,Mlima Bar Soap 1kg,Household,2,297,197,true
+281,Tamu Tamu Detergent Powder 1kg,Household,8,352,243,true
+282,Tamu Tamu Detergent Powder 3kg,Household,8,901,692,true
+283,Neema Detergent Powder 1kg,Household,7,328,210,true
+284,Neema Detergent Powder 3kg,Household,99,886,719,true
+285,Shamba Gold Detergent Powder 1kg,Household,41,353,286,true
+286,Shamba Gold Detergent Powder 3kg,Household,53,905,658,true
+287,Jua Detergent Powder 1kg,Household,4,355,245,true
+288,Jua Detergent Powder 3kg,Household,43,970,697,true
+289,Tausi Detergent Powder 1kg,Household,3,317,241,true
+290,Tausi Detergent Powder 3kg,Household,3,1006,750,true
+291,Mlima Dishwashing Liquid 750ml,Household,73,227,183,true
+292,Pwani Pride Dishwashing Liquid 750ml,Household,6,249,158,true
+293,Upendo Dishwashing Liquid 750ml,Household,11,236,172,true
+294,Shamba Gold Dishwashing Liquid 750ml,Household,1,268,187,true
+295,Tamu Tamu Dishwashing Liquid 750ml,Household,92,271,189,true
+296,Kilele Dishwashing Liquid 750ml,Household,12,219,,true
+297,Neema Dishwashing Liquid 750ml,Household,7,245,161,true
+298,Pwani Pride Toilet Tissue 10 pack,Household,6,487,376,false
+299,Mlima Toilet Tissue 10 pack,Household,68,581,376,true
+300,Simba Bora Toilet Tissue 10 pack,Household,9,526,418,true
+301,Kilele Toilet Tissue 10 pack,Household,12,596,429,true
+302,Shamba Gold Toilet Tissue 10 pack,Household,1,533,381,true
+303,Mlima Bleach 1L,Household,2,175,111,true
+304,Tamu Tamu Bleach 1L,Household,61,179,125,true
+305,Pwani Pride Bleach 1L,Household,6,193,139,true
+306,Simba Bora Bleach 1L,Household,9,208,147,true
+307,Kilele Bleach 1L,Household,69,217,146,true
+308,Nyota Charcoal 4kg,Household,10,394,272,true
+309,Mlima Charcoal 4kg,Household,2,388,277,true
+310,Kilele Charcoal 4kg,Household,98,338,237,true
+311,Tamu Tamu Charcoal 4kg,Household,8,381,312,true
+312,Upendo Charcoal 4kg,Household,11,373,292,true
+313,Neema White Bread 400g,Bakery,7,65,52,true
+314,Neema White Bread 600g,Bakery,7,100,72,true
+315,Simba Bora White Bread 400g,Bakery,86,61,48,true
+316,Simba Bora White Bread 600g,Bakery,9,100,80,true
+317,Kilele White Bread 400g,Bakery,52,73,49,true
+318,Kilele White Bread 600g,Bakery,12,106,71,true
+319,Jua White Bread 400g,,86,70,48,true
+320,Jua White Bread 600g,Bakery,4,87,67,true
+321,Nyota White Bread 400g,Bakery,87,60,43,true
+322,Nyota White Bread 600g,Bakery,10,96,69,true
+323,Tausi White Bread 400g,Bakery,3,66,43,true
+324,Tausi White Bread 600g,Bakery,94,95,64,true
+325,Mlima Brown Bread 600g,Bakery,2,101,73,true
+326,Simba Bora Brown Bread 600g,Bakery,9,112,72,true
+327,Tamu Tamu Brown Bread 600g,Bakery,8,120,80,true
+328,Kilele Brown Bread 600g,Bakery,64,95,75,true
+329,Pwani Pride Brown Bread 600g,Bakery,6,104,81,true
+330,Nyota Brown Bread 600g,Bakery,10,105,80,false
+331,Upendo Brown Bread 600g,Bakery,11,110,72,true
+332,Kifaru Mandazi 6 pack,Bakery,5,119,81,true
+333,Pwani Pride Mandazi 6 pack,Bakery,6,135,89,false
+334,Neema Mandazi 6 pack,Bakery,7,130,92,true
+335,Shamba Gold Mandazi 6 pack,Bakery,1,129,99,true
+336,Jua Mandazi 6 pack,Bakery,93,123,94,true
+337,Tamu Tamu Mandazi 6 pack,Bakery,8,131,82,true
+338,Jua Cake Slice each,Bakery,4,149,95,true
+339,Neema Cake Slice each,Bakery,7,147,111,true
+340,Nyota Cake Slice each,Bakery,98,149,96,true
+341,Kifaru Cake Slice each,Bakery,5,147,92,true
+342,Tausi Cake Slice each,Bakery,3,141,107,true
+343,Tausi Petroleum Jelly 250ml,Personal Care,51,164,124,true
+344,Kilele Petroleum Jelly 250ml,Personal Care,12,163,103,true
+345,Nyota Petroleum Jelly 250ml,Personal Care,10,193,148,true
+346,Neema Petroleum Jelly 250ml,Personal Care,67,201,149,true
+347,Mlima Petroleum Jelly 250ml,Personal Care,2,173,126,true
+348,Pwani Pride Petroleum Jelly 250ml,,51,176,122,true
+349,Simba Bora Petroleum Jelly 250ml,Personal Care,9,205,131,true
+350,Pwani Pride Toothpaste 140g,Personal Care,6,243,174,true
+351,Jua Toothpaste 140g,Personal Care,4,227,155,true
+352,Tamu Tamu Toothpaste 140g,Personal Care,8,210,139,true
+353,Neema Toothpaste 140g,Personal Care,7,212,173,true
+354,Mlima Toothpaste 140g,Personal Care,2,243,176,false
+355,Nyota Toothpaste 140g,Personal Care,10,212,170,true
+356,Mlima Body Lotion 400ml,Personal Care,2,450,315,true
+357,Tamu Tamu Body Lotion 400ml,Personal Care,8,408,271,true
+358,Neema Body Lotion 400ml,Personal Care,7,472,314,true
+359,Simba Bora Body Lotion 400ml,Personal Care,87,466,372,true
+360,Kilele Body Lotion 400ml,Personal Care,77,442,322,true
+361,Simba Bora Shampoo 400ml,Personal Care,9,567,446,true
+362,Kifaru Shampoo 400ml,Personal Care,56,538,401,true
+363,Kilele Shampoo 400ml,Personal Care,61,487,397,true
+364,Jua Shampoo 400ml,Personal Care,49,473,349,true
+365,Tausi Shampoo 400ml,Personal Care,3,501,382,true
+366,Mlima Shampoo 400ml,Personal Care,60,562,435,true
+367,Nyota Sanitary Pads 10 pack,Personal Care,10,111,76,true
+368,Kilele Sanitary Pads 10 pack,Personal Care,12,111,83,false
+369,Kifaru Sanitary Pads 10 pack,Personal Care,5,136,90,true
+370,Jua Sanitary Pads 10 pack,Personal Care,4,132,98,true
+371,Mlima Sanitary Pads 10 pack,Personal Care,2,120,91,true
+372,Pwani Pride Sanitary Pads 10 pack,Personal Care,79,121,96,true
+373,"Mlima Baby Diapers Size 3, 40 pack",Baby Care,2,1547,1238,true
+374,"Mlima Baby Diapers Size 4, 36 pack",Baby Care,97,1610,1299,true
+375,"Tamu Tamu Baby Diapers Size 3, 40 pack",Baby Care,8,1654,1270,true
+376,"Tamu Tamu Baby Diapers Size 4, 36 pack",Baby Care,8,1310,951,true
+377,"Kilele Baby Diapers Size 3, 40 pack",Baby Care,12,1585,1200,true
+378,"Kilele Baby Diapers Size 4, 36 pack",Baby Care,58,1536,1217,true
+379,"Simba Bora Baby Diapers Size 3, 40 pack",Baby Care,81,1622,1174,true
+380,"Simba Bora Baby Diapers Size 4, 36 pack",Baby Care,9,1570,1007,true
+381,"Neema Baby Diapers Size 3, 40 pack",Baby Care,7,1533,1255,true
+382,"Neema Baby Diapers Size 4, 36 pack",Baby Care,7,1464,1100,true
+383,"Tausi Baby Diapers Size 3, 40 pack",Baby Care,3,1393,1040,false
+384,"Tausi Baby Diapers Size 4, 36 pack",Baby Care,3,1365,1063,true
+385,Neema Baby Wipes 80 pack,Baby Care,7,296,200,true
+386,Jua Baby Wipes 80 pack,Baby Care,4,288,227,true
+387,Tausi Baby Wipes 80 pack,Baby Care,81,293,214,true
+388,Kilele Baby Wipes 80 pack,Baby Care,12,315,227,true
+389,Tamu Tamu Baby Wipes 80 pack,Baby Care,8,298,205,false
+390,Kifaru Baby Wipes 80 pack,Baby Care,5,330,232,true
+391,Upendo Baby Wipes 80 pack,Baby Care,11,360,289,true
+392,Mlima Baby Cereal 400g,Baby Care,2,536,409,true
+393,Tausi Baby Cereal 400g,Baby Care,72,509,384,true
+394,Simba Bora Baby Cereal 400g,Baby Care,9,529,337,true
+395,Pwani Pride Baby Cereal 400g,Baby Care,82,620,503,true
+396,Nyota Baby Cereal 400g,Baby Care,10,507,404,true
+397,Pwani Pride Baby Lotion 200ml,Baby Care,6,345,267,true
+398,Kifaru Baby Lotion 200ml,Baby Care,68,353,238,false
+399,Jua Baby Lotion 200ml,Baby Care,61,407,274,true
+400,Neema Baby Lotion 200ml,Baby Care,7,392,245,true
+401,Tamu Tamu Baby Lotion 200ml,Baby Care,8,422,309,true
+402,Tausi Baby Lotion 200ml,Baby Care,80,357,282,true
+403,Simba Bora Baby Lotion 200ml,Baby Care,9,391,290,true
+404,Tomatoes 1kg (Bungoma),Fresh Produce,268,102,52,true
+405,Tomatoes 1kg (Kakamega),Fresh Produce,185,112,78,true
+406,Tomatoes 1kg (Kajiado),Fresh Produce,299,133,79,true
+407,Tomatoes 1kg (Kilifi),Fresh Produce,294,127,65,true
+408,Tomatoes 1kg (Kisumu),Fresh Produce,459,122,71,true
+409,Tomatoes 1kg (Murang'a),Fresh Produce,159,138,86,true
+410,Tomatoes 1kg (Machakos),Fresh Produce,160,114,61,true
+411,Tomatoes 1kg (Kisii),Fresh Produce,512,132,87,true
+412,Tomatoes 1kg (Embu),Fresh Produce,402,139,92,true
+413,Onions 1kg (Kakamega),Fresh Produce,420,116,80,true
+414,Onions 1kg (Murang'a),Fresh Produce,138,104,59,true
+415,Onions 1kg (Kajiado),Fresh Produce,299,129,76,true
+416,Onions 1kg (Uasin Gishu),Fresh Produce,353,121,62,true
+417,Onions 1kg (Laikipia),Fresh Produce,438,106,64,true
+418,Onions 1kg (Bungoma),Fresh Produce,268,111,61,true
+419,Onions 1kg (Kirinyaga),Fresh Produce,223,103,66,true
+420,Onions 1kg (Kericho),Fresh Produce,289,94,53,true
+421,Onions 1kg (Kisii),Fresh Produce,103,112,70,true
+422,Onions 1kg (Nairobi),Fresh Produce,408,104,63,true
+423,Onions 1kg (Nakuru),Fresh Produce,507,128,73,true
+424,Sukuma Wiki bunch (Kisumu),Fresh Produce,459,30,15,true
+425,Sukuma Wiki bunch (Kajiado),Fresh Produce,334,32,22,true
+426,Sukuma Wiki bunch (Kericho),Fresh Produce,289,36,18,true
+427,Sukuma Wiki bunch (Kakamega),Fresh Produce,474,32,17,true
+428,Sukuma Wiki bunch (Nyeri),Fresh Produce,312,34,18,true
+429,Sukuma Wiki bunch (Kiambu),Fresh Produce,424,34,21,true
+430,Sukuma Wiki bunch (Bungoma),Fresh Produce,211,27,16,true
+431,Sukuma Wiki bunch (Meru),Fresh Produce,502,30,19,true
+432,Sukuma Wiki bunch (Mombasa),Fresh Produce,464,28,19,true
+433,Sukuma Wiki bunch (Kilifi),Fresh Produce,470,32,19,true
+434,Sukuma Wiki bunch (Laikipia),Fresh Produce,232,28,16,false
+435,Cabbage each (Kisii),Fresh Produce,385,70,49,true
+436,Cabbage each (Uasin Gishu),Fresh Produce,271,72,48,true
+437,Cabbage each (Laikipia),Fresh Produce,232,74,41,true
+438,Cabbage each (Embu),Fresh Produce,389,90,62,true
+439,Cabbage each (Nyandarua),Fresh Produce,367,77,41,true
+440,Cabbage each (Kericho),Fresh Produce,307,83,43,true
+441,Cabbage each (Nyeri),Fresh Produce,202,82,54,true
+442,Cabbage each (Machakos),Fresh Produce,175,94,51,true
+443,Cabbage each (Meru),Fresh Produce,282,78,39,true
+444,Cabbage each (Mombasa),Fresh Produce,351,70,35,true
+445,Cabbage each (Kiambu),Fresh Produce,107,73,40,true
+446,Hass Avocado each (Machakos),Fresh Produce,197,36,21,true
+447,Hass Avocado each (Meru),Fresh Produce,203,41,22,true
+448,Hass Avocado each (Kericho),Fresh Produce,198,43,23,true
+449,Hass Avocado each (Kiambu),Fresh Produce,134,40,28,true
+450,Hass Avocado each (Nakuru),Fresh Produce,319,38,25,true
+451,Hass Avocado each (Nyandarua),Fresh Produce,331,39,26,true
+452,Hass Avocado each (Kirinyaga),Fresh Produce,223,41,25,true
+453,Hass Avocado each (Kisumu),Fresh Produce,361,43,28,true
+454,Hass Avocado each (Nairobi),Fresh Produce,214,41,21,true
+455,Hass Avocado each (Murang'a),Fresh Produce,398,39,26,true
+456,Hass Avocado each (Kisii),Fresh Produce,512,46,30,true
+457,Hass Avocado each (Mombasa),Fresh Produce,295,39,25,true
+458,Bananas dozen (Uasin Gishu),Fresh Produce,379,158,79,true
+459,Bananas dozen (Kisii),Fresh Produce,512,155,103,true
+460,Bananas dozen (Kiambu),Fresh Produce,495,167,99,true
+461,Bananas dozen (Meru),Fresh Produce,486,165,106,true
+462,Bananas dozen (Kisumu),,120,153,97,true
+463,Bananas dozen (Kajiado),Fresh Produce,236,163,85,true
+464,Bananas dozen (Mombasa),Fresh Produce,330,148,101,true
+465,Bananas dozen (Machakos),Fresh Produce,314,177,114,false
+466,Bananas dozen (Kilifi),Fresh Produce,355,153,87,true
+467,Mangoes 1kg (Mombasa),Fresh Produce,491,156,80,true
+468,Mangoes 1kg (Kisumu),Fresh Produce,343,158,92,true
+469,Mangoes 1kg (Nyandarua),Fresh Produce,331,185,111,true
+470,Mangoes 1kg (Machakos),Fresh Produce,407,171,106,true
+471,Mangoes 1kg (Nairobi),Fresh Produce,322,186,112,true
+472,Mangoes 1kg (Kajiado),Fresh Produce,143,181,100,true
+473,Mangoes 1kg (Kilifi),Fresh Produce,490,161,111,true
+474,Mangoes 1kg (Kirinyaga),Fresh Produce,239,187,116,true
+475,Mangoes 1kg (Nyeri),Fresh Produce,315,136,81,true
+476,Mangoes 1kg (Meru),Fresh Produce,262,168,100,true
+477,Mangoes 1kg (Kiambu),Fresh Produce,456,176,120,true
+478,Potatoes 2kg (Nakuru),Fresh Produce,229,224,155,true
+479,Potatoes 2kg (Meru),Fresh Produce,447,208,126,true
+480,Potatoes 2kg (Bungoma),Fresh Produce,106,199,126,true
+481,Potatoes 2kg (Mombasa),Fresh Produce,465,223,114,true
+482,Potatoes 2kg (Embu),Fresh Produce,189,173,95,true
+483,Potatoes 2kg (Kiambu),Fresh Produce,104,186,100,true
+484,Potatoes 2kg (Laikipia),Fresh Produce,399,175,118,true
+485,Potatoes 2kg (Kirinyaga),Fresh Produce,223,189,124,true
+486,Potatoes 2kg (Machakos),Fresh Produce,197,187,96,true
+487,Potatoes 2kg (Kericho),Fresh Produce,270,203,118,true
+488,Carrots 1kg (Meru),Fresh Produce,282,97,65,true
+489,Carrots 1kg (Kilifi),Fresh Produce,313,99,58,true
+490,Carrots 1kg (Embu),Fresh Produce,206,98,51,true
+491,Carrots 1kg (Nairobi),Fresh Produce,403,92,62,false
+492,Carrots 1kg (Laikipia),Fresh Produce,231,99,56,true
+493,Carrots 1kg (Kajiado),Fresh Produce,238,86,50,true
+494,Carrots 1kg (Kericho),Fresh Produce,307,85,44,true
+495,Carrots 1kg (Murang'a),Fresh Produce,159,92,49,true
+496,Carrots 1kg (Bungoma),Fresh Produce,297,100,54,true
+497,Carrots 1kg (Uasin Gishu),Fresh Produce,116,105,67,true
+498,Spinach bunch (Bungoma),Fresh Produce,177,38,25,true
+499,Spinach bunch (Mombasa),Fresh Produce,101,45,23,true
+500,Spinach bunch (Uasin Gishu),Fresh Produce,170,45,31,true
+501,Spinach bunch (Nakuru),Fresh Produce,229,43,25,true
+502,Spinach bunch (Kisumu),Fresh Produce,308,40,28,true
+503,Spinach bunch (Kakamega),Fresh Produce,114,41,28,true
+504,Spinach bunch (Kiambu),Fresh Produce,187,45,29,true
+505,Spinach bunch (Kilifi),Fresh Produce,300,40,23,true
+506,Spinach bunch (Kajiado),Fresh Produce,364,36,20,true
+507,Spinach bunch (Kirinyaga),Fresh Produce,223,40,27,true
+508,Spinach bunch (Machakos),Fresh Produce,515,40,28,true
+509,Spinach bunch (Nyeri),Fresh Produce,202,41,23,true
+510,Passion Fruit 1kg (Kajiado),Fresh Produce,371,252,156,true
+511,Passion Fruit 1kg (Nairobi),Fresh Produce,265,248,156,true
+512,Passion Fruit 1kg (Kisii),Fresh Produce,411,228,136,true
+513,Passion Fruit 1kg (Nakuru),Fresh Produce,229,254,132,true
+514,Passion Fruit 1kg (Kisumu),Fresh Produce,269,188,129,true
+515,Passion Fruit 1kg (Machakos),Fresh Produce,216,250,143,true
+516,Passion Fruit 1kg (Bungoma),Fresh Produce,268,196,129,true
+517,Passion Fruit 1kg (Kiambu),Fresh Produce,469,251,139,true
+518,Passion Fruit 1kg (Murang'a),Fresh Produce,235,242,129,true
+519,Passion Fruit 1kg (Kilifi),Fresh Produce,400,194,111,true
+520,Passion Fruit 1kg (Laikipia),Fresh Produce,516,260,138,true
+521,Passion Fruit 1kg (Uasin Gishu),Fresh Produce,228,248,285,true
+522,Oranges 1kg (Bungoma),Fresh Produce,177,127,67,true
+523,Oranges 1kg (Nyandarua),,226,167,112,true
+524,Oranges 1kg (Kilifi),Fresh Produce,326,132,82,true
+525,Oranges 1kg (Kisumu),Fresh Produce,148,159,99,true
+526,Oranges 1kg (Mombasa),Fresh Produce,154,157,88,true
+527,Oranges 1kg (Machakos),Fresh Produce,197,159,94,true
+528,Oranges 1kg (Nyeri),Fresh Produce,488,125,78,true
+529,Oranges 1kg (Embu),Fresh Produce,409,159,106,true
+530,Oranges 1kg (Kisii),Fresh Produce,103,149,96,true
+531,Oranges 1kg (Kajiado),Fresh Produce,334,139,76,true
+532,Oranges 1kg (Laikipia),Fresh Produce,399,165,105,true
+533,Pineapple each (Kajiado),Fresh Produce,377,112,63,true
+534,Pineapple each (Machakos),Fresh Produce,350,140,93,true
+535,Pineapple each (Kilifi),Fresh Produce,470,145,89,true
+536,Pineapple each (Kiambu),Fresh Produce,311,129,90,true
+537,Pineapple each (Bungoma),Fresh Produce,374,145,94,true
+538,Pineapple each (Kericho),Fresh Produce,141,154,79,true
+539,Pineapple each (Kirinyaga),Fresh Produce,239,126,80,true
+540,Pineapple each (Kakamega),Fresh Produce,185,115,76,true
+541,Pineapple each (Embu),Fresh Produce,378,136,74,true
+542,Pineapple each (Nairobi),Fresh Produce,494,139,92,false
+543,Watermelon each (Kakamega),Fresh Produce,125,380,263,true
+544,Watermelon each (Murang'a),Fresh Produce,496,364,211,true
+545,Watermelon each (Machakos),Fresh Produce,175,376,248,true
+546,Watermelon each (Nakuru),Fresh Produce,229,340,199,true
+547,Watermelon each (Kericho),Fresh Produce,307,301,167,true
+548,Watermelon each (Kirinyaga),Fresh Produce,239,313,157,true
+549,Watermelon each (Kajiado),Fresh Produce,238,389,205,true
+550,Watermelon each (Kiambu),Fresh Produce,190,307,203,true
+551,Watermelon each (Kisii),Fresh Produce,483,322,169,true
+552,Watermelon each (Mombasa),Fresh Produce,373,352,180,true
+553,Green Peppers 500g (Embu),Fresh Produce,389,79,40,true
+554,Green Peppers 500g (Kisii),Fresh Produce,243,88,52,true
+555,Green Peppers 500g (Kilifi),Fresh Produce,313,106,55,true
+556,Green Peppers 500g (Kisumu),Fresh Produce,137,96,60,true
+557,Green Peppers 500g (Mombasa),Fresh Produce,296,78,44,true
+558,Green Peppers 500g (Kiambu),Fresh Produce,104,93,58,true
+559,Green Peppers 500g (Kajiado),Fresh Produce,199,104,57,true
+560,Green Peppers 500g (Uasin Gishu),Fresh Produce,468,94,53,true
+561,Green Peppers 500g (Kericho),Fresh Produce,289,77,46,true
+562,Green Peppers 500g (Nakuru),Fresh Produce,220,95,66,true
+563,Green Peppers 500g (Meru),Fresh Produce,140,78,52,true
+564,Garlic 250g (Kiambu),Fresh Produce,342,112,69,true
+565,Garlic 250g (Kilifi),Fresh Produce,188,106,68,true
+566,Garlic 250g (Kericho),Fresh Produce,144,106,70,true
+567,Garlic 250g (Uasin Gishu),Fresh Produce,413,104,62,true
+568,Garlic 250g (Machakos),Fresh Produce,139,121,73,true
+569,Garlic 250g (Laikipia),Fresh Produce,231,107,60,true
+570,Garlic 250g (Meru),Fresh Produce,447,118,75,true
+571,Garlic 250g (Embu),Fresh Produce,402,124,84,true
+572,Garlic 250g (Kisumu),Fresh Produce,343,110,58,true
+573,Garlic 250g (Murang'a),Fresh Produce,145,143,88,true
+574,Garlic 250g (Nairobi),Fresh Produce,161,103,54,true
+575,Garlic 250g (Kakamega),Fresh Produce,358,142,72,true
+576,Ginger 250g (Meru),Fresh Produce,169,94,55,true
+577,Ginger 250g (Murang'a),Fresh Produce,496,111,59,true
+578,Ginger 250g (Kirinyaga),Fresh Produce,239,114,71,true
+579,Ginger 250g (Laikipia),Fresh Produce,240,86,58,true
+580,Ginger 250g (Machakos),Fresh Produce,437,109,63,true
+581,Ginger 250g (Embu),Fresh Produce,378,113,72,true
+582,Ginger 250g (Uasin Gishu),Fresh Produce,353,115,62,true
+583,Ginger 250g (Nyeri),Fresh Produce,222,116,70,true
+584,Ginger 250g (Kiambu),Fresh Produce,109,107,68,true
+585,Ginger 250g (Bungoma),Fresh Produce,177,107,57,true
+586,Ginger 250g (Kakamega),Fresh Produce,208,104,69,true
+587,Coriander bunch (Kajiado),Fresh Produce,364,17,10,true
+588,Coriander bunch (Bungoma),Fresh Produce,177,21,11,true
+589,Coriander bunch (Nairobi),Fresh Produce,340,19,11,true
+590,Coriander bunch (Machakos),,381,19,12,true
+591,Coriander bunch (Murang'a),Fresh Produce,145,19,13,true
+592,Coriander bunch (Laikipia),Fresh Produce,232,22,12,true
+593,Coriander bunch (Kericho),Fresh Produce,167,22,14,true
+594,Coriander bunch (Kilifi),Fresh Produce,514,24,13,true
+595,Coriander bunch (Kirinyaga),Fresh Produce,223,21,13,true
+596,Coriander bunch (Nyandarua),Fresh Produce,362,19,12,true
+597,Managu bunch (Meru),Fresh Produce,180,50,25,true
+598,Managu bunch (Nyandarua),Fresh Produce,367,45,30,true
+599,Managu bunch (Murang'a),Fresh Produce,235,51,31,true
+600,Managu bunch (Bungoma),Fresh Produce,284,51,32,true
+601,Managu bunch (Embu),Fresh Produce,389,58,30,true
+602,Managu bunch (Kajiado),Fresh Produce,334,43,23,true
+603,Managu bunch (Kirinyaga),Fresh Produce,239,59,38,true
+604,Managu bunch (Laikipia),Fresh Produce,232,47,32,true
+605,Managu bunch (Kericho),Fresh Produce,144,56,36,true
+606,Managu bunch (Nakuru),Fresh Produce,461,55,36,false
+607,Managu bunch (Machakos),Fresh Produce,515,48,28,true
+608,Terere bunch (Kilifi),Fresh Produce,355,42,29,true
+609,Terere bunch (Kakamega),Fresh Produce,358,41,22,true
+610,Terere bunch (Kajiado),Fresh Produce,372,35,18,true
+611,Terere bunch (Uasin Gishu),Fresh Produce,252,37,25,true
+612,Terere bunch (Nakuru),Fresh Produce,510,39,45,true
+613,Terere bunch (Kirinyaga),Fresh Produce,223,48,26,true
+614,Terere bunch (Laikipia),Fresh Produce,399,43,29,true
+615,Terere bunch (Bungoma),Fresh Produce,293,46,29,true
+616,Terere bunch (Kisii),Fresh Produce,449,37,20,true
+617,Terere bunch (Kisumu),Fresh Produce,137,36,23,true
+618,Terere bunch (Machakos),Fresh Produce,139,45,28,true
+619,Terere bunch (Murang'a),Fresh Produce,504,47,24,true
+620,Gift Hamper Deluxe,,,4500,3200,true
+621,Gift Hamper Classic,,,2500,1800,true
