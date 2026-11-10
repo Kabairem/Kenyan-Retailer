@@ -1,0 +1,22 @@
+##Data Sources Inventory & Provenance
+
+## 1. Internal Transactional & Operational Datasets
+- **Origin:** Simulated enterprise transactional data reflecting a multi-branch Kenyan retail supermarket chain ("FreshChoice Mart").
+- **Date Accessed / Generated:** Generated continuously for the 2025–2026 operational period.
+- **Licence / Terms of Use:** Open educational/portfolio use under MIT License. No proprietary customer PII is included.
+- **Period Covered:** January 1, 2025 – June 30, 2026 (18-month transactional window).
+- **Files Included:** 
+  - `orders.csv` / `order_items.csv` (Transaction headers and line items)
+  - `customers.csv` (Customer demographics and loyalty tiers)
+  - `outlets.csv` / `outlet_targets.csv` (Branch master data and quarterly revenue targets)
+  - `products.csv` / `suppliers.csv` (Catalog items, categories, and supplier mapping)
+  - `payments.csv` (Payment channels including M-Pesa, Cash, and Card)
+- **Join Relationship:** Connects relationally via primary/foreign keys—specifically linking `orders.order_id` to `order_items.order_id` and `payments.order_id`, and `orders.outlet_id` to `outlets.outlet_id`.
+
+## 2. External Macroeconomic Dataset (KNBS CPI)
+- **Origin:** Kenya National Bureau of Statistics (KNBS) Consumer Price Index and monthly inflation bulletins.
+- **Date Accessed:** Accessed and extracted on March 15, 2026.
+- **Licence / Terms of Use:** Public government statistical data governed by Kenya's Open Data and Statistics Access guidelines (public domain / open educational utilization with attribution).
+- **Period Covered:** January 2025 – June 2026 (matching the transactional analysis window).
+- **File Location:** `data/external/knbs_cpi.csv`
+- **Join Relationship:** Merges with monthly aggregated sales data (`orders` and `order_items`) on the `year_month` (YYYY-MM) time dimension to evaluate inflationary pressures against average order values and customer demand velocity.
